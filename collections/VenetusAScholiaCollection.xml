@@ -1,0 +1,2134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="multifolio-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Image mapping notebook for msA:Iliad 14.187v</title>
+                <author>Evans Martinez and Chase Bradford</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished working notebook for Fall 2011 Homer Course</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born-digital work.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Copy or clone the final, empty row below to add new, blank rows.</p>
+            <div n="msA">
+                <head>Main scholia, folio msA:187v-</head>
+                <p>Feel free to add paragraphs ("p") element describing each set of entries in your
+                    notebook.</p>
+                <table>
+                    <row role="label">
+                        <cell>Text or object identifier</cell>
+                        <cell>Description or note</cell>
+                        <cell>Image identifier</cell>
+                        <cell>MS-folio reference</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B1</cell>
+                        <cell>First main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24392041,0.13997234,0.68920413,0.04024896</cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B2</cell>
+                        <cell>Second main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24778924,0.16625173,0.67815033,0.04730290 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B3</cell>
+                        <cell>Third main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24392041,0.20069156,0.67538688,0.02116183 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B4</cell>
+                        <cell>Fourth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24060427,0.22351314,0.20670597,0.02282158 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B5</cell>
+                        <cell>Fifth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24392041,0.24426003,0.20504790,0.04813278 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B6</cell>
+                        <cell>Sixth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24649963,0.28976487,0.21554901,0.03789765 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B7</cell>
+                        <cell>Seventh main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24318349,0.31438451,0.22623434,0.05864454 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B8</cell>
+                        <cell>Eighth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.37288136,0.35919779,0.09506264,0.01300138 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B9</cell>
+                        <cell>Ninth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.23286662,0.37164592,0.23876197,0.05809129 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B10</cell>
+                        <cell>Tenth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24318349,0.42946058,0.21075903,0.02461964 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B11</cell>
+                        <cell>Eleventh main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24465733,0.44163209,0.22218128,0.10235131 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B12</cell>
+                        <cell>Twelfth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.23544584,0.54287690,0.24576271,0.08132780 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B13</cell>
+                        <cell>Thirteenth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24649963,0.62337483,0.22107590,0.03762102 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B14</cell>
+                        <cell>Fourteenth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.24170965,0.65712310,0.22365512,0.06943292 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B15</cell>
+                        <cell>Fifteenth main scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.25423729,0.72448133,0.69307296,0.03195021 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B16</cell>
+                        <cell>First main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.16414886,0.10954357,0.61090641,0.07192254 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B17</cell>
+                        <cell>Second main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.56834930,0.39626556,0.20670597,0.05311203 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B18</cell>
+                        <cell>Third main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.56355932,0.44688797,0.20670597,0.07275242 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B19</cell>
+                        <cell>Fourth main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.56098010,0.50525588,0.21518055,0.04619640 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B20</cell>
+                        <cell>Fifth main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.55619013,0.55117566,0.21407517,0.12641770 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B21</cell>
+                        <cell>Sixth main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.14314665,0.67441217,0.63080324,0.06860304 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B22</cell>
+                        <cell>Seventh main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.14959469,0.72282158,0.61827561,0.05034578 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B23</cell>
+                        <cell>Eighth main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.15401621,0.75435685,0.61016949,0.05089903 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.B24</cell>
+                        <cell>Ninth main Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.14959469,0.79917012,0.52910833,0.01715076 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E1</cell>
+                        <cell>First main scholion of 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.23212970,0.36293223,0.20486367,0.08243430</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E2</cell>
+                        <cell>Second main scholion of 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.25313191,0.43042877,0.18901990,0.05449516</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E3</cell>
+                        <cell>Third main scholion of 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.23949889,0.46694329,0.20265291,0.03236515</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E4</cell>
+                        <cell>Fourth main scholion of 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.26492262,0.49709544,0.17354458,0.03983402 </cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E5</cell>
+                        <cell>Fifth main scholion of 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.25497421,0.52807746,0.20081061,0.04370678</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E6</cell>
+                        <cell>Sixth main scholion of 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.25460575,0.56874136,0.20117907,0.02710927</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E7</cell>
+                        <cell>Seventh main scholion of 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.25423729,0.59363762,0.20302137,0.09681881</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E8</cell>
+                        <cell>First main scholion of 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.17133382,0.11203320,0.59358880,0.02157676</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E9</cell>
+                        <cell>Second main scholion of 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.16967576,0.12987552,0.61790715,0.06307054</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E10</cell>
+                        <cell>Third main scholion of 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.60187915,0.37690180,0.17980840,0.16071923</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E11</cell>
+                        <cell>Fourth main scholion of 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.57166544,0.54177040,0.20228445,0.09654219 </cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E12</cell>
+                        <cell>Fifth main scholion of 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.59893147,0.64107884,0.18312454,0.08852006</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E13</cell>
+                        <cell>First main scholion of 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.23489315,0.38354080,0.21518055,0.11037344</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E14</cell>
+                        <cell>Second main scholion of 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.23489315,0.48201936,0.20265291,0.07634855</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E15</cell>
+                        <cell>Third main scholion of 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.24005158,0.54038728,0.21186441,0.05919779</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E16</cell>
+                        <cell>Fourth main scholion of 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.24226234,0.59764869,0.20523213,0.08105118</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E17</cell>
+                        <cell>Fifth main scholion of 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.24742078,0.66625173,0.20781135,0.04149378</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E18</cell>
+                        <cell>Sixth main scholion of 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.24115696,0.70553250,0.51142225,0.04370678</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.E19</cell>
+                        <cell>Seventh main scholion of 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.24944731,0.72752420,0.68551953,0.09128631</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G1</cell>
+                        <cell>First main scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.16064849,0.10954357,0.62675018,0.04813278 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G2</cell>
+                        <cell>Second Main Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.16507001,0.14190871,0.61569639,0.02655602 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G3</cell>
+                        <cell>Third Main Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.17059690,0.15352697,0.60795873,0.02904564 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G4</cell>
+                        <cell>Fourth Main Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.59801032,0.38948824,0.18054532,0.08354080 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G5</cell>
+                        <cell>Fifth Main Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.59211496,0.47192254,0.19528371,0.10622407 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G6</cell>
+                        <cell>Sixth Main Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.58732498,0.57427386,0.20062638,0.13402490 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G7</cell>
+                        <cell>Seventh Main Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.13706706,0.69792531,0.63669860,0.05532503 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G8</cell>
+                        <cell>Eigth Main Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.14425203,0.75518672,0.62453943,0.03070539</cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G9</cell>
+                        <cell>Ninth Main Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.15420044,0.76846473,0.61127487,0.03319502</cell>
+                        <cell>183r</cell>
+                    </row>
+                    
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G10</cell>
+                        <cell>First Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.23728814,0.11867220,0.65327929,0.03983402</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G11</cell>
+                        <cell>Second Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.24281503,0.14605809,0.65217391,0.03651452</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G12</cell>
+                        <cell>Third Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.23839352,0.33831259,0.20854827,0.06362379 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G13</cell>
+                        <cell>Fourth Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.24207811,0.38976487,0.21223287,0.03319502 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G14</cell>
+                        <cell>Fifth Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.24281503,0.42517289,0.21223287,0.07192254 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G15</cell>
+                        <cell>Sixth Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.23765660,0.48381743,0.20412675,0.07468880 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G16</cell>
+                        <cell>Seventh Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.22918202,0.55089903,0.22328666,0.04647303 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G17</cell>
+                        <cell>Eigth Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.24023581,0.59294606,0.23212970,0.06196404 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G18</cell>
+                        <cell>Ninth Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.22918202,0.64398340,0.68754606,0.12448133 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G19</cell>
+                        <cell>Tenth Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.24686809,0.76846473,0.68865144,0.03153527 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G20</cell>
+                        <cell>Eleventh Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.25607959,0.78257261,0.66433309,0.04066390 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G21</cell>
+                        <cell>Twelth Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.24797347,0.80912863,0.68975682,0.04066390 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.G22</cell>
+                        <cell>Thirteenth Main Scholia of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.23728814,0.84232365,0.61459101,0.02904564 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C1</cell>
+                        <cell>First main scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.16101695,0.10995851,0.61514370,0.03319502</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C2</cell>
+                        <cell>Second main scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.15420044,0.12821577,0.61293294,0.02987552</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C3</cell>
+                        <cell>Third main scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.15309506,0.14232365,0.61901253,0.04439834</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C4</cell>
+                        <cell>Fourth main scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.15696389,0.17012448,0.61514370,0.05352697</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C5</cell>
+                        <cell>Fifth main scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.57535004,0.22323651,0.20228445,0.09419087</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C6</cell>
+                        <cell>Sixth main scholion of 184r</cell>
+                        <cell>VA184RN-0185@.15364775,0.71742739,0.62398674,0.03402490</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C7</cell>
+                        <cell>Seventh main scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.15088430,0.73775934,0.60630066,0.03858921</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C8</cell>
+                        <cell>First main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.25700074,0.11701245,0.46260133,0.01991701</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C9</cell>
+                        <cell>Second main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.25700074,0.11701245,0.63172439,0.04356846</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C10</cell>
+                        <cell>Third main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.26473839,0.15850622,0.62785556,0.03775934</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C11</cell>
+                        <cell>Fourth main scholion of 184v</cell>
+                        <cell>VA184VN-0686@.24263080,0.41037344,0.21831245,0.05684647</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C12</cell>
+                        <cell>Fifth main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.23489315,0.46597510,0.22439204,0.08215768</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C13</cell>
+                        <cell>Sixth main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.24152542,0.54564315,0.21886514,0.05062241</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C14</cell>
+                        <cell>Seventh main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.24981577,0.57966805,0.21002211,0.04813278</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C15</cell>
+                        <cell>Eighth main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.24594694,0.61410788,0.21554901,0.07219917</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C16</cell>
+                        <cell>Ninth main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.24207811,0.68506224,0.64130435,0.05643154</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C17</cell>
+                        <cell>Tenth main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.23894620,0.73900415,0.69141489,0.04232365</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C18</cell>
+                        <cell>Eleventh main scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.24723655,0.76431535,0.69141489,0.05726141</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C19</cell>
+                        <cell>First main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.16120118,0.08271093,0.62490789,0.04674965</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C20</cell>
+                        <cell>Second main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.16304348,0.11203320,0.63117170,0.06777317</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C21</cell>
+                        <cell>Third main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.59487841,0.33333333,0.18865144,0.06804979</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C22</cell>
+                        <cell>Fourth main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.60114223,0.39668050,0.19675755,0.07441217</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C23</cell>
+                        <cell>Fifth main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.60261606,0.46832642,0.19123066,0.08188105</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C24</cell>
+                        <cell>Sixth main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.58898305,0.53609959,0.20560059,0.06196404</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C25</cell>
+                        <cell>Seventh main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.10961680,0.59972337,0.67943994,0.11396957</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C26</cell>
+                        <cell>Eighth main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.11293294,0.69709544,0.66801769,0.07302905</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.C27</cell>
+                        <cell>Ninth main scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.11661754,0.76376210,0.66728077,0.05504841</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H1</cell>
+                        <cell>Main </cell>
+                        <cell>VA185VN-0687@0.24742078,0.11286307,0.59745763,0.02821577 </cell>
+                        <cell>185v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H2</cell>
+                        <cell>Main </cell>
+                        <cell>VA185VN-0687@0.25165807,0.11701245,0.64498895,0.03153527</cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H3</cell>
+                        <cell>Main</cell>
+                        <cell>VA185VN-0687@0.25128961,0.12282158,0.64941046,0.06721992 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H4</cell>
+                        <cell>Main</cell>
+                        <cell>VA185VN-0687@0.25460575,0.17925311,0.64222550,0.02863071 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H5</cell>
+                        <cell>Main</cell>
+                        <cell>VA185VN-0687@0.24576271,0.19709544,0.65438467,0.02697095 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H6</cell>
+                        <cell>Main</cell>
+                        <cell>VA185VN-0687@0.22365512,0.56390041,0.22881356,0.06141079 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H7</cell>
+                        <cell>Main</cell>
+                        <cell>VA185VN-0687@0.23636699,0.43983402,0.21554901,0.08049793 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H8</cell>
+                        <cell>Main</cell>
+                        <cell>VA185VN-0687@0.24023581,0.51659751,0.21499632,0.05103734 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H9</cell>
+                        <cell>Main</cell>
+                        <cell>VA185VN-0687@0.23949889,0.62710927,0.20781135,0.03872752 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H10</cell>
+                        <cell>Main</cell>
+                        <cell>VA185VN-0687@0.23894620,0.66639004 ,0.20891673,0.07053942</cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H11</cell>
+                        <cell>Main</cell>
+                        <cell>VA186RN-0187@0.18496684,0.08188105,0.62196021,0.03706777 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H12</cell>
+                        <cell>Main</cell>
+                        <cell>VA186RN-0187@0.18570376,0.10567082,0.62048637,0.05421853 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H13</cell>
+                        <cell>Main</cell>
+                        <cell>VA186RN-0187@0.19602063,0.14495159,0.61016949,0.05255878 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H14</cell>
+                        <cell>Main</cell>
+                        <cell>VA186RN-0357@0.589,0.3862,0.203,0.0796 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H15</cell>
+                        <cell>Main</cell>
+                        <cell>VA186RN-0357@0.594,0.4591,0.189,0.0361 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H16</cell>
+                        <cell>Main</cell>
+                        <cell>VA186RN-0357@0.601,0.4853,0.202,0.1623 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H17</cell>
+                        <cell>main</cell>
+                        <cell>VA186RN-0357@0.149,0.6424,0.64,0.1082</cell>
+                        <cell>186r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H18</cell>
+                        <cell>Main</cell>
+                        <cell>VA186RN-0357@0.15,0.7363,0.616,0.0466 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H19</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.24834193,0.11230982,0.62048637,0.04536653 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H20</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.44067797,0.14550484,0.42520265,0.01715076 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H21</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.25497421,0.15601660,0.36919676,0.01991701 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H22</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.25000000,0.15684647,0.63669860,0.21784232 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H23</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.24944731,0.38049793,0.20173176,0.04937759 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H24</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.22015475,0.41452282,0.22881356,0.14813278 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H25</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.22955048,0.54605809,0.21665438,0.05767635 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H26</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.24557848,0.58879668,0.20007369,0.04979253 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H27</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.23894620,0.63443983,0.21389094,0.07178423 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H28</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.24392041,0.69211618,0.21831245,0.02489627 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H29</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.24557848,0.71701245,0.67593957,0.09709544 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.H30</cell>
+                        <cell>Main</cell>
+                        <cell>VA186VN-0688@0.24944731,0.81037344,0.66820192,0.06224066 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greeklit:tlg52026.msA.hmt:14.A1</cell>
+                        <cell>First main scholion 187R</cell>
+                        <cell>VA187RN-0188@0.16359617,0.09183956,0.61016949,0.20470263 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A2</cell>
+                        <cell>Second main scholion of 187R </cell>
+                        <cell>VA187RN-0188@0.61311717,0.32614108,0.17133382,0.08132780 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A3</cell>
+                        <cell>Third main scholion of 187R</cell>
+                        <cell>VA187RN-0188@0.61035372,0.40373444,0.17796610,0.22240664 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A4</cell>
+                        <cell>Fourth main scholion of 187R</cell>
+                        <cell>VA187RN-0188@0.60980103,0.62365145,0.18680914,0.02863071 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A5</cell>
+                        <cell>Fifth main scholion of 187R</cell>
+                        <cell>VA187RN-0358@0.141,0.6536,0.658,0.0811 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A6</cell>
+                        <cell>Sixth main scholion of 187R</cell>
+                        <cell>VA187RN-0188@0.13854090,0.70594744,0.64996315,0.04094053 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.J1</cell>
+                        <cell>Seventh main scholion of 187R</cell>
+                        <cell>VA187RN-0188@0.14001474,0.73029046,0.64259396,0.07856155 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A7</cell>
+                        <cell>First main scholion of Iliad 187v</cell>
+                        <cell>VA187VN-0689@0.23913043,0.42213001,0.18570376,0.04757953 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A8</cell>
+                        <cell>Second main scholion of Iliad 187v</cell>
+                        <cell>VA187VN-0689@0.24207811,0.46417704,0.18533530,0.04647303 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A9</cell>
+                        <cell>Third main scholion of Iliad 187v</cell>
+                        <cell>VA187VN-0689@0.23655122,0.50843707,0.20302137,0.23789765 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A10</cell>
+                        <cell>Fourth main scholion of Iliad 187v</cell>
+                        <cell>VA187VN-0689@0.25239499,0.73360996,0.64885777,0.05172891 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.A11</cell>
+                        <cell>Fifth main scholion of Iliad 187v</cell>
+                        <cell>VA187VN-0689@0.24834193,0.75020747,0.66764923,0.04730290 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D1</cell>
+                        <cell>First main scholion of 188r</cell>
+                        <cell>VA188RN-0189@0.58585114,0.23720609,0.19307296,0.05836791</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D2</cell>
+                        <cell>Second main scholion of 188r</cell>
+                        <cell>VA188RN-0189@0.57958732,0.29917012,0.19896831,0.25172891</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D3</cell>
+                        <cell>Third main scholion of 188r</cell>
+                        <cell>VA188RN-0189@0.57369197,0.54896266,0.19528371,0.07275242</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D4</cell>
+                        <cell>Fourth main scholion of 188r</cell>
+                        <cell>VA188RN-0189@0.57037583,0.61950207,0.20154753,0.05670816</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D5</cell>
+                        <cell>Fifth main scholion of 188r</cell>
+                        <cell>VA188RN-0189@0.14517318,0.67593361,0.63706706,0.04979253</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D6</cell>
+                        <cell>Sixth main scholion of 188r</cell>
+                        <cell>VA188RN-0189@0.14738394,0.72130014,0.62048637,0.02655602</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D7</cell>
+                        <cell>Seventh main scholion of 188r</cell>
+                        <cell>VA188RN-0189@0.14959469,0.74453665,0.61901253,0.03098202</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D8</cell>
+                        <cell>First main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.24226234,0.11120332,0.44141489,0.02710927</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D9</cell>
+                        <cell>Second main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.24244657,0.12890733,0.66322771,0.02378976</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D10</cell>
+                        <cell>Third main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.23286662,0.37759336,0.20689020,0.03623790</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D11</cell>
+                        <cell>Fourth main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.23268239,0.41424620,0.21278556,0.03222683</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D12</cell>
+                        <cell>Fifth main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.23194547,0.44979253,0.22181282,0.03416321</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D13</cell>
+                        <cell>Sixth main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.22807664,0.48188105,0.22439204,0.04591978</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D14</cell>
+                        <cell>Seventh main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.45910096,1.05089903,0.45025792,0.05145228</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D15</cell>
+                        <cell>Eighth main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.44731024,1.10401107,0.43846721,0.07026279</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D16</cell>
+                        <cell>Ninth main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.45836404,1.17372061,0.41267502,0.04426003 </cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D17</cell>
+                        <cell>Tenth main scholion of 188v</cell>
+                        <cell>VA188VN-0690@0.44731024,1.21742739,0.44362564,0.07966805</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D18</cell>
+                        <cell>Eleventh main scholion of 188v - Additional line, Can be included at
+                            14.420</cell>
+                        <cell>VA188VN-0690@0.95873250,1.65781466,0.78555637,0.07302905</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D19</cell>
+                        <cell>First main scholion of 189r</cell>
+                        <cell>VA189RN-0360@0.61016949,0.26708160,0.19786293,0.11410788</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.D20</cell>
+                        <cell>Second main scholion of 189r</cell>
+                        <cell>VA189RN-0360@0.61569639,0.37496542,0.18791452,0.13278008</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F1</cell>
+                        <cell>First main scholion of 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.21481209,0.37980636,0.21260133,0.05255878</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F2</cell>
+                        <cell>Second main scholion of 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.21702284,0.43042877,0.21407517,0.03706777</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F3</cell>
+                        <cell>Third main scholion of 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.21665438,0.46307054,0.21481209,0.06556017</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F4</cell>
+                        <cell>First main scholion of 190r</cell>
+                        <cell>VA190RN-0191@0.60574797,0.30705394,0.18404569,0.06307054</cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F5</cell>
+                        <cell>Second main scholion of 190r</cell>
+                        <cell>VA190RN-0191@0.58843036,0.55836791,0.20265291,0.15325035</cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F6</cell>
+                        <cell>Third main scholion of 190r</cell>
+                        <cell>VA190RN-0191@0.15972734,0.69654219,0.63448784,0.03526971</cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F7</cell>
+                        <cell>Fourth main scholion of 190r</cell>
+                        <cell>VA190RN-0191@0.16470155,0.71936376,0.62011791,0.03858921</cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F8</cell>
+                        <cell>Fifth main scholion of 190r</cell>
+                        <cell>VA190RN-0191@0.12988209,0.75504841,0.65935888,0.04190871</cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F9</cell>
+                        <cell>First main scholion of 190v, Iliad 14</cell>
+                        <cell>VA190VN-0692@0.22660280,0.30829876,0.21223287,0.09834025</cell>
+                        <cell>190v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F10</cell>
+                        <cell>Second main scholion of 190v, Iliad 14</cell>
+                        <cell>VA190VN-0692@0.23157701,0.39170124,0.20560059,0.05228216</cell>
+                        <cell>190v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F11</cell>
+                        <cell>Third main scholion of 190v, Iliad 14</cell>
+                        <cell>VA190VN-0692@0.21831245,0.43568465,0.22439204,0.09709544</cell>
+                        <cell>190v</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F12</cell>
+                        <cell>Fifth main scholion of 190v, Iliad 14</cell>
+                        <cell>VA190VN-0692@0.22457627,0.73734440,0.62896094,0.05186722</cell>
+                        <cell>190v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msA.hmt:14.F13</cell>
+                        <cell>Sixth main scholion of 190v, Iliad 14</cell>
+                        <cell>VA190VN-0692@0.23452469,0.76431535,0.62177598,0.03526971</cell>
+                        <cell>190v</cell>
+                    </row>
+                </table>
+            </div>
+            <div n="Aim">
+                <head>Intermarginal scholia, folio msA:187v-</head>
+                <p>Feel free to add paragraphs ("p") element describing each set of entries in your
+                    notebook.</p>
+                <table>
+                    <row role="label">
+                        <cell>Text or object identifier</cell>
+                        <cell>Description or note</cell>
+                        <cell>Image identifier</cell>
+                        <cell>MS-folio reference</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.B1</cell>
+                        <cell>First intermarginal scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.46094326,0.52614108,0.05637436,0.03941909 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.B2</cell>
+                        <cell>Second intermarginal scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.47918202,0.56390041,0.04310980,0.05228216 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.B3</cell>
+                        <cell>Third intermarginal scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682:
+                            0.46868091,0.68174274,0.11606485,0.04149378 </cell>
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.B4</cell>
+                        <cell>First intermarginal scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.56005895,0.26334716,0.08843036,0.03817427 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.B5</cell>
+                        <cell>Second intermarginal scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.51731761,0.59585062,0.04789978,0.04370678 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.E2</cell>
+                        <cell>First intermarginal scholion, 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.60058954,0.30414938,0.05711127,0.01853389</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.E3</cell>
+                        <cell>Second intermarginal scholion, 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.53334562,0.51798064,0.05692704,0.01147994</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.E4</cell>
+                        <cell>First intermarginal scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.44731024,0.43886584,0.04513633,0.04011065</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.E5</cell>
+                        <cell>Second intermarginal scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.44620486,0.50401107,0.05287399,0.03457815</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.E6</cell>
+                        <cell>Third intermarginal scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.45357406,0.53845090,0.05011054,0.01632089</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.E7</cell>
+                        <cell>Fourth intermarginal scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.44915254,0.56030429,0.04642594,0.04204703</cell>
+                        <cell>182v</cell>
+                    </row>    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.E8</cell>
+                        <cell>Fifth intermarginal scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.45081061,0.67579530,0.04642594,0.02047026</cell>
+                        <cell>182v</cell>
+                    </row> 
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.G1</cell>
+                        <cell>First intermarginal scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.56153279,0.54868603,0.02873987,0.03983402</cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.G2</cell>
+                        <cell>Second Intermarginal Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.52689757,0.58561549,0.05600590,0.02600277</cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.G3</cell>
+                        <cell>First Intermarginal Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.41304348,0.23070539,0.07848195,0.05062241</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.G4</cell>
+                        <cell>Second Intermarginal Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.42741341,0.30871369,0.06190125,0.04398340</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.G5</cell>
+                        <cell>Third Intermarginal Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@.44178335,0.42904564,0.05195284,0.04481328</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.G6</cell>
+                        <cell>Fourth Intermarginal Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.44731024,0.50290456,0.04863670,0.03236515 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.G7</cell>
+                        <cell>Fifth Intermarginal Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.45946942,0.61825726,0.05195284,0.03651452 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.G8</cell>
+                        <cell>Sixth Intermarginal Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.45836404,0.69045643,0.12269713,0.02655602 </cell>
+                        <cell>183v</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C1</cell>
+                        <cell>First intermarginal scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.52984525,0.35573997,0.11422255,0.02157676</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C2</cell>
+                        <cell>Second intermarginal scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.56079587,0.54218534,0.08179808,0.02047026</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C3</cell>
+                        <cell>Third intermarginal scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.56300663,0.60912863,0.10316875,0.01659751</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C4</cell>
+                        <cell>First intermarginal scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.43183493,0.22780083,0.07295505,0.05435685</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C5</cell>
+                        <cell>Second intermarginal scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.45283714,0.47842324,0.05637436,0.02987552</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C6</cell>
+                        <cell>Third intermarginal scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.45781135,0.52074689,0.04863670,0.04107884</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C7</cell>
+                        <cell>Fourth intermarginal scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.45062638,0.60995851,0.04476787,0.03734440</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C8</cell>
+                        <cell>Fifth intermarginal scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.45283714,0.68340249,0.05250553,0.03112033</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C9</cell>
+                        <cell>1st intermarginal scholion of 185r</cell>
+                        <cell/>
+                        
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C10</cell>
+                        <cell>2nd intermarginal scholion of 185r</cell>
+                        <cell/>
+                        
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C11</cell>
+                        <cell>3rd intermarginal scholion of 185r</cell>
+                        <cell/>
+                        
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C12</cell>
+                        <cell>4th intermarginal scholion of 185r</cell>
+                        <cell/>
+                        
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.C13</cell>
+                        <cell>5th intermarginal scholion of 185r</cell>
+                        <cell/>
+                        
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.H1</cell>
+                        <cell>Intermarginal</cell>
+                        <cell>VA185VN-0687@0.43717760,0.34993084,0.07166544,0.04896266 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.H2</cell>
+                        <cell>Intermarginal</cell>
+                        <cell>VA185VN-0687@0.44602063,0.65587828,0.05600590,0.06196404 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.H3</cell>
+                        <cell>Intermarginal</cell>
+                        <cell>VA186RN-0187@0.58216654,0.31784232,0.09653648,0.03112033 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.H4</cell>
+                        <cell>Intermarginal</cell>
+                        <cell>VA186RN-0187@0.58290346,0.50691563,0.06282240,0.02005533 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.H5</cell>
+                        <cell>Intermarginal</cell>
+                        <cell>VA186VN-0688@0.45652174,0.29515906,0.04863670,0.02710927 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.H6</cell>
+                        <cell>Intermarginal</cell>
+                        <cell>VA186VN-0688@0.45670597,0.34937759,0.04661017,0.04011065 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.H7</cell>
+                        <cell>Intermarginal</cell>
+                        <cell>VA186VN-0688@0.45136330,0.57330567,0.04955785,0.02987552 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.A1</cell>
+                        <cell>First intermarginal scholion, 187R, Iliad 14</cell>
+                        <cell>VA187RN-0188@0.57258659,0.42060858,0.04974208,0.04315353 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.A2</cell>
+                        <cell>Second intermarginal scholion, 187R, Iliad 14</cell>
+                        <cell>VA187RN-0188@0.58603537,0.63457815,0.02560796,0.03347165 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.A3</cell>
+                        <cell>First intermarginal scholion of Iliad 187v</cell>
+                        <cell>VA187VN-0689@0.38559322,0.24564315,0.06392778,0.01258645 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.A4</cell>
+                        <cell>Second intermarginal scholion, 187v, Iliad 14</cell>
+                        <cell>VA187VN-0689@0.39683125,0.34287690,0.05858511,0.02461964 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.A5</cell>
+                        <cell>Third intermarginal scholion, 187v, Iliad 14</cell>
+                        <cell>VA187VN-0689@0.43809875,0.57413555,0.03131909,0.06168741 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.A6</cell>
+                        <cell>Fourth intermarginal scholion, 187v, Iliad 14</cell>
+                        <cell>VA187VN-0689@0.42538688,0.66071923,0.03758290,0.04937759 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.D1</cell>
+                        <cell>First intermarginal scholion, 188r</cell>
+                        <cell>VA188RN-0189@0.56153279,0.56666667,0.01768607,0.03734440</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.D2</cell>
+                        <cell>Second intermarginal scholion,188r</cell>
+                        <cell>VA188RN-0189@0.50957996,0.60290456,0.06226971,0.03291840</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.D3</cell>
+                        <cell>First intermarginal scholion, 188v</cell>
+                        <cell>VA188VN-0690@0.89941046,0.77648686,0.08253500,0.05643154</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.D4</cell>
+                        <cell>Second intermarginal scholion, 188v</cell>
+                        <cell>VA188VN-0690@0.89240973,0.84426003,0.09174650,0.04011065</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.D5</cell>
+                        <cell>Third intermarginal scholion, 188v</cell>
+                        <cell>VA188VN-0690@0.90935888,0.99225450,0.06927045,0.07441217</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.D6</cell>
+                        <cell>Fourth intermarginal scholion, 188v</cell>
+                        <cell>VA188VN-0690@0.89941046,1.17980636,0.10464259,0.07441217</cell>
+                        <cell>188v</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.D7</cell>
+                        <cell>First intermarginal scholion, 189r</cell>
+                        <cell>VA189RN-0360@0.56429624,0.40525588,0.05361091,0.01991701</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.D8</cell>
+                        <cell>Second intermarginal scholion, 189r</cell>
+                        <cell>VA189RN-0360@0.63006632,0.64716459,0.05471629,0.01991701</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F1</cell>
+                        <cell>First intermarginal scholion, 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.43736183,0.25698479,0.05047900,0.03070539</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F2</cell>
+                        <cell>Second intermarginal scholion, 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.44067797,0.48160443,0.05195284,0.01964039</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F3</cell>
+                        <cell>Third intermarginal scholion, 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.44067797,0.50207469,0.05895357,0.01825726</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F4</cell>
+                        <cell>Fourth intermarginal scholion, 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.44325718,0.55878285,0.04384672,0.02268326</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F5</cell>
+                        <cell>Fifth intermarginal scholion, 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.44030951,0.59280775,0.05453206,0.03374827</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F6</cell>
+                        <cell>Sixth intermarginal scholion, 189v, Iliad 14</cell>
+                        <cell>VA189VN-0691@0.43478261,0.65449516,0.05932203,0.04011065</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F7</cell>
+                        <cell>First intermarginal scholion, 190r</cell>
+                        <cell>VA190RN-0191@0.57811349,0.26680498,0.05969049,0.03029046 </cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F8</cell>
+                        <cell>First intermarginal scholion, 190v, Iliad 14</cell>
+                        <cell>VA190VN-0692@0.43699337,0.25546335,0.05674282,0.05034578</cell>
+                        <cell>190v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F9</cell>
+                        <cell>Second intermarginal scholion, 190v, Iliad 14</cell>
+                        <cell>VA190VN-0692@0.44344141,0.46763485,0.04605748,0.03319502</cell>
+                        <cell>190v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAim.hmt:14.F10</cell>
+                        <cell>Third intermarginal scholion, 190v, Iliad 14</cell>
+                        <cell>VA190VN-0692@0.44436256,0.49723375,0.04642594,0.04412172 </cell>
+                        <cell>190v</cell>
+                    </row>
+                </table>
+            </div>
+            <div n="Aint">
+                <head>Interior scholia, folio msA:187v-</head>
+                <p>Feel free to add paragraphs ("p") element describing each set of entries in your
+                    notebook.</p>
+                <table>
+                    <row role="label">
+                        <cell>Text or object identifier</cell>
+                        <cell>Description or note</cell>
+                        <cell>Image identifier</cell>
+                        
+                        <cell>MS-folio reference</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.B1</cell>
+                        <cell>First Interior Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.07590273,0.41715076,0.07885041,0.05532503 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.B2</cell>
+                        <cell>Second Interior Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.08474576,0.56708160,0.05969049,0.03319502 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.B2</cell>
+                        <cell>Third Interior Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.09064112,0.64951591,0.05158438,0.02323651 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E1</cell>
+                        <cell>First interior scholion, 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.83990420,0.28934993,0.06963891,0.01466113</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E2</cell>
+                        <cell>Second interior scholion, 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.88025055,0.36348548,0.04679440,0.03513140</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E3</cell>
+                        <cell>Third interior scholion, 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.85740604,0.44716459,0.06816507,0.01687414</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E4</cell>
+                        <cell>Fourth interior scholion, 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.86477524,0.46666667,0.06448047,0.03416321</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E5</cell>
+                        <cell>Fifth interior scholion, 181v, Iliad 14</cell>
+                        <cell>VA181VN-0683@0.87877671,0.57579530,0.06116433,0.03319502</cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E6</cell>
+                        <cell>First interior scholion, 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.08585114,0.46334716,0.06687546,0.03969571</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E7</cell>
+                        <cell>Second interior scholion, 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.07958732,0.50318119,0.07682388,0.01479945</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E8</cell>
+                        <cell>Third interior scholion, 182r, Iliad 14</cell>
+                        <cell>VA182RN-0183@0.09543110,0.63637621,0.05268976,0.01051176</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E9</cell>
+                        <cell>First interior scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.90198968,0.41120332,0.03960943,0.01784232</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E10</cell>
+                        <cell>Second interior scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.90954311,0.46556017,0.02929256,0.01562932</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E11</cell>
+                        <cell>Third interior scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.92815033,0.55836791,0.02394989,0.01175657</cell>
+                        <cell>182v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.E12</cell>
+                        <cell>Fourth interior scholion, 182v, Iliad 14</cell>
+                        <cell>VA182VN-0684@0.90475313,0.67081604,0.03224024,0.02074689</cell>
+                        <cell>182v</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.G1</cell>
+                        <cell>First Interior Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.09064112,0.24094053,0.06337509,0.04094053 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.G2</cell>
+                        <cell>Second Interior Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.09579956,0.35159059,0.04568902,0.04315353 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.G3</cell>
+                        <cell>Third Interior Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.07811349,0.62323651,0.06779661,0.06749654 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.G4</cell>
+                        <cell>First Interior Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.84856301,0.23817427,0.07516581,0.05560166</cell>
+                        <cell>183v</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C1</cell>
+                        <cell>First interior scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.19123066,0.41300138,0.14259396,0.08464730</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C2</cell>
+                        <cell>Second interior scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.08843036,0.33637621,0.07571850,0.04605809</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C3</cell>
+                        <cell>Third interior scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.20670597,0.90096819,0.11827561,0.04481328</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C4</cell>
+                        <cell>Fourth interior scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.07442889,0.67385892,0.08548268,0.03651452</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C5</cell>
+                        <cell>First interior scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.86956522,0.28879668,0.04089904,0.01991701</cell>
+                        <cell>184v</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C6</cell>
+                        <cell>Second interior scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.84248342,0.65311203,0.10169492,0.03485477</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C7</cell>
+                        <cell>First interior scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.10077377,0.20553250,0.06705969,0.04730290</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C8</cell>
+                        <cell>Second interior scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.09119381,0.33167358,0.07148121,0.04730290</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C9</cell>
+                        <cell>Third interior scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.10519528,0.44398340,0.05821665,0.03236515</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C10</cell>
+                        <cell>Fourth interior scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.09856301,0.47441217,0.05084746,0.03430152</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.C11</cell>
+                        <cell>Fifth interior scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.09229919,0.59806362,0.06963891,0.04757953</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.H1</cell>
+                        <cell>Interior</cell>
+                        <cell>VA185VN-0687@0.86809138,0.55698479,0.07184967,0.02365145 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.H2</cell>
+                        <cell>Interior</cell>
+                        <cell>VA186RN-0187@0.14314665,0.50456432,0.03537214,0.01396957 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.H3</cell>
+                        <cell>Interior</cell>
+                        <cell>VA186RN-0187@0.12877671,0.57828492,0.06005895,0.03430152 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.H4</cell>
+                        <cell>Interior</cell>
+                        <cell>VA186RN-0187@0.14204127,0.65712310,0.04992631,0.01521438 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.H5</cell>
+                        <cell>Interior</cell>
+                        <cell>VA186VN-0688@0.90475313,0.61051176,0.03868828,0.06874136 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.A1</cell>
+                        <cell>First interior scholion, 187R, Iliad 14</cell>
+                        <cell>VA187RN-0188@0.09322034,0.58838174,0.05784819,0.03167358 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.A2</cell>
+                        <cell>First interior scholion, 187v, Iliad 14</cell>
+                        <cell>VA187VN-0689@0.89609433,0.65089903,0.04789978,0.05532503 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D1</cell>
+                        <cell>First interior scholion, 188r</cell>
+                        <cell>VA188RN-0189@0.10537951,0.25878285,0.05987472,0.02088520</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D2</cell>
+                        <cell>Second interior scholion, 188r</cell>
+                        <cell>VA188RN-0189@0.09561533,0.39308437,0.06079587,0.03195021</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D3</cell>
+                        <cell>Third interior scholion, 188r</cell>
+                        <cell>VA188RN-0189@0.09358880,0.43734440,0.06779661,0.01894882</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D4</cell>
+                        <cell>Fourth interior scholion, 188r</cell>
+                        <cell>VA188RN-0189@0.09450995,0.55491010,0.06245394,0.03236515</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D5</cell>
+                        <cell>Fifth interior scholion, 188r</cell>
+                        <cell>VA188RN-0189@0.07940310,0.64287690,0.07313928,0.02849239</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D6</cell>
+                        <cell>First interior scholion of 189r</cell>
+                        <cell>VA189RN-0360@0.10593220,0.35477178,0.05047900,0.00995851</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D7</cell>
+                        <cell>Second interior scholion of 189r</cell>
+                        <cell>VA189RN-0360@0.10224761,0.37302905,0.06226971,0.01687414</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D8</cell>
+                        <cell>Third interior scholion of 189r</cell>
+                        <cell>VA189RN-0360@0.10298452,0.38934993,0.05084746,0.02434302</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.D9</cell>
+                        <cell>Fourth interior scholion of 189r</cell>
+                        <cell>VA189RN-0360@0.10261606,0.44052559,0.06226971,0.05200553</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAint.hmt:14.F1</cell>
+                        <cell>First interior scholion, 190r, Iliad 14</cell>
+                        <cell>VA190RN-0191@0.10261606,0.56556017,0.05158438,0.02987552</cell>
+                        <cell>190r</cell>
+                    </row>
+                    
+                </table>
+            </div>
+            <div n="Ail">
+                <head>Interlinear scholia, folio msA:187v-</head>
+                <p>Feel free to add paragraphs ("p") element describing each set of entries in your
+                    notebook.</p>
+                <table>
+                    <row role="label">
+                        <cell>Text or object identifier</cell>
+                        <cell>Description or note</cell>
+                        <cell>Image identifier</cell>
+                        <cell>MS-folio reference</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.B1</cell>
+                        <cell>First Interlinear scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.90364775,0.46597510,0.03316139,0.00871369</cell>
+                        
+                        <cell>180v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.B2</cell>
+                        <cell>Second Interlinear scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.54495210,0.53900415,0.06963891,0.01120332</cell>
+                        <cell>180v </cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.B3</cell>
+                        <cell>Third Interlinear scholion of 180v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA180VN-0682@0.76215917,0.59668050,0.06742815,0.01037344 </cell>
+                        <cell>180v</cell>
+                       
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.B4</cell>
+                        <cell>First Interlinear scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.24760501,0.49073306,0.07516581,0.01217151 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.E1</cell>
+                        <cell>Interlinear scholion, 181v, above Iliad line 14.75 </cell>
+                        <cell>VA181VN-0683@0.67888725,0.67316736,0.05379514,0.00802213 </cell>
+                        <cell>181v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.E2</cell>
+                        <cell>Interlinear scholion, 182r, above Iliad line 14.86</cell>
+                        <cell>VA182RN-0183@0.49281503,0.40110650,0.06042741,0.00857538</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.E3</cell>
+                        <cell>Interlinear scholion, 182r, below Iliad line 14.101</cell>
+                        <cell>VA182RN-0183@0.23102432,0.70345781,0.17796610,0.01991701</cell>
+                        <cell>182r</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.G1</cell>
+                        <cell>Fisrt interlinear Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.68717760,0.24149378,0.08235077,0.01742739</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.G2</cell>
+                        <cell>Second interlinear Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.67943994,0.28049793,0.08511422,0.01825726</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.G3</cell>
+                        <cell>Third Interior Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.59211496,0.36099585,0.05637436,0.01078838</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.G4</cell>
+                        <cell>Fourth Interior Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.60316875,0.41825726,0.05969049,0.01161826</cell>
+                        <cell>183v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.G5</cell>
+                        <cell>Fifth Interior Scholion of 183v</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183VN-0685@0.71481209,0.41991701,0.09064112,0.01327801</cell>
+                        <cell>183v</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.C1</cell>
+                        <cell>First interlinear scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.26842299,0.29834025,0.04587325,0.00788382</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.C2</cell>
+                        <cell> Second interlinear scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.19049374,0.31908714,0.03924097,0.00829876</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.C3</cell>
+                        <cell> Third interlinear scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.28849085,0.31867220,0.11261433,0.00954357</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.C4</cell>
+                        <cell>Fourth interlinear scholion of 184r</cell>
+                        <cell>VA184RN-0185@0.18769055,0.24287690,0.01600610,0.00899032</cell>
+                        <cell>184r</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.C5</cell>
+                        <cell>First interlinear scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.60759027,0.21867220,0.04587325,0.01701245</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.C6</cell>
+                        <cell>First interlinear scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.37380251,0.32973721,0.03942520,0.01189488</cell>
+                        <cell>185r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.C7</cell>
+                        <cell>Second interlinear scholion of 185r</cell>
+                        <cell>VA185RN-0186@0.56245394,0.42904564,0.03647752,0.01189488</cell>
+                        <cell>185r</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.H1</cell>
+                        <cell>Interlinear</cell>
+                        <cell>VA185VN-0687@0.86661754,0.22558783,0.05747973,0.01562932 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.H2</cell>
+                        <cell>Interlinear</cell>
+                        <cell>VA185VN-0687@0.74281503,0.28796680,0.07811349,0.01203320 </cell>
+                        <cell>185V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.H3</cell>
+                        <cell>Interlinear</cell>
+                        <cell>VA186RN-0187@0.40585851,0.28893499,0.04384672,0.00885201 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.H4</cell>
+                        <cell>Interlinear</cell>
+                        <cell>VA186RN-0187@0.37140752,0.32876902,0.02321297,0.00802213 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.A1</cell>
+                        <cell>Interlinear scholion, 187R, above seventeenth line of text</cell>
+                        <cell>VA187RN-0188@0.54366249,0.51493776,0.03481945,0.00912863 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.A2</cell>
+                        <cell>Interlinear scholion, 187v, above line 363</cell>
+                        <cell>VA187VN-0689@0.84303611,0.40511757,0.04845247,0.01120332 </cell>
+                        <cell>187v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.D1</cell>
+                        <cell>First interlinear scholion,188r, above first line of text</cell>
+                        <cell>VA188RN-0189@0.39093589,0.19363762,0.17870302,0.01244813</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.D2</cell>
+                        <cell>Second interlinear scholion, 188r (same symbol appears in interior
+                            scholion)</cell>
+                        <cell>VA188RN-0189@0.54992631,0.25587828,0.01436993,0.00885201</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.D3</cell>
+                        <cell>Third interlinear scholion (same symbol appears in interior
+                            scholion)</cell>
+                        <cell>VA188RN-0189@0.51860722,0.39529737,0.01068534,0.00691563</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.D4</cell>
+                        <cell>First Interlinear scholion, 188v, above first line of text</cell>
+                        <cell>VA188VN-0690@1.03058217,0.43540802,0.05600590,0.02544952</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.D5</cell>
+                        <cell>Second Interlinear scholion, 188v</cell>
+                        <cell>VA188VN-0690@1.81024318,0.80387275,0.04458364,0.02849239</cell>
+                        <cell>188v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.D6</cell>
+                        <cell>First interlinear scholion, 189r</cell>
+                        <cell>VA189RN-0360@0.17907148,0.38271093,0.02929256,0.00871369</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.D7</cell>
+                        <cell>Second interlinear scholion, 189r</cell>
+                        <cell>VA189RN-0360@0.43883567,0.53208852,0.03205601,0.00871369</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.F1</cell>
+                        <cell>Interlinear scholion, 189v, above twenty-first line of text</cell>
+                        <cell>VA189VN-0691@0.62453943,0.62821577,0.08658806,0.01161826</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.F2</cell>
+                        <cell>Interlinear scholion, 189v, above twenty-second line of text</cell>
+                        <cell>VA189VN-0691@0.85151069,0.59640387,0.04642594,0.01272476</cell>
+                        <cell>189v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.F3</cell>
+                        <cell>Interlinear scholion, 190r, above fourth line of text</cell>
+                        <cell>VA190RN-0191@0.52818718,0.26777317,0.03352985,0.00802213</cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.F4</cell>
+                        <cell>Interlinear scholion, 190r, above twelth line of text</cell>
+                        <cell>VA190RN-0191@0.44583640,0.41977870,0.04753132,0.00995851</cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.F5</cell>
+                        <cell>Interlinear scholion, 190r, above fourth line of text</cell>
+                        <cell>VA190RN-0191@0.20302137,0.61009682,0.03758290,0.00802213</cell>
+                        <cell>190r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAil.hmt:14.F6</cell>
+                        <cell>Interlinear scholion, 190v, above first line of text</cell>
+                        <cell>VA190VN-0692@0.59782609,0.22780083,0.08511422,0.01355463</cell>
+                        <cell>190v</cell>
+                    </row>
+                </table>
+            </div>
+            <div n="Aext">
+                <head>Exterior scholia, folio msA:187v-</head>
+                <p>Feel free to add paragraphs ("p") element describing each set of entries in your
+                    notebook.</p>
+                <table>
+                    <row role="label">
+                        <cell>Text or object identifier</cell>
+                        <cell>Description or note</cell>
+                        <cell>Image identifier</cell>
+                        <cell>MS-folio reference</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.B1</cell>
+                        <cell>First Exterior Scholion of 181r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA181RN-0182@0.78113486,0.55269710,0.06853353,0.04370678 </cell>
+                        <cell>181r</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.E1</cell>
+                        <cell>First Exterior scholion, 182r, Iliad 14 </cell>
+                        <cell>VA182RN-0183@0.80637436,0.57607192,0.02837141,0.01244813</cell>
+                        <cell>182r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.E2</cell>
+                        <cell>First Exterior scholion, 182v, Iliad 14 </cell>
+                        <cell>VA182VN-0684@0.16764923,0.40318119,0.05711127,0.02185339 </cell>
+                        <cell>182v</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.G1</cell>
+                        <cell>First Exterior Scholion of 183r</cell>
+                        <cell>urn:cite:hmt:vaimg.VA183RN-0184@0.75681651,0.35352697,0.09064112,0.02821577 </cell>
+                        <cell>183r</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.C1</cell>
+                        <cell>First exterior schiolon of 184r</cell>
+                        <cell>VA184RN-0185@0.78887195,0.62060858,0.06669207,0.03042877</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.C2</cell>
+                        <cell> Second exterior schiolon of 184r</cell>
+                        <cell>VA184RN-0185@0.78696646,0.67316736,0.08269817,0.03319502</cell>
+                        <cell>184r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.C3</cell>
+                        <cell>First exterior scholion of 184v</cell>
+                        <cell>VA184VN-0686@0.16746500,0.61037344,0.03371408,0.02157676</cell>
+                        <cell>184v</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.H1</cell>
+                        <cell>Exterior</cell>
+                        <cell>VA186RN-0187@0.82737657,0.66749654,0.06669123,0.01742739 </cell>
+                        <cell>186R</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.H2</cell>
+                        <cell>Exterior</cell>
+                        <cell>VA186VN-0688@0.16488578,0.28630705,0.06190125,0.01867220 </cell>
+                        <cell>186V</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.A1</cell>
+                        <cell>First exterior scholion, 187R, Iliad 14</cell>
+                        <cell>VA187RN-0188@0.80103169,0.62531120,0.05913780,0.03402490 </cell>
+                        <cell>187r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.A2</cell>
+                        <cell>First exterior scholion of Iliad 187v</cell>
+                        <cell>VA187VN-0689@0.14056743,0.31230982,0.07700811,0.02323651 </cell>
+                        <cell>187v</cell>
+
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.A3</cell>
+                        <cell>Second exterior scholion of Iliad 187v</cell>
+                        <cell>VA187VN-0689@0.16285925,0.44094053,0.06982314,0.02226833 </cell>
+                        <cell>187v</cell>
+
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.D1</cell>
+                        <cell>First exterior scholion</cell>
+                        <cell>VA188RN-0189@0.78500368,0.29972337,0.04826824,0.01466113</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.D2</cell>
+                        <cell>Second exterior scholion</cell>
+                        <cell>VA188RN-0189@0.78813559,0.33319502,0.04955785,0.02116183</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.D3</cell>
+                        <cell>Third exterior scholion</cell>
+                        <cell>VA188RN-0189@0.77708180,0.41991701,0.05655859,0.01355463</cell>
+                        <cell>188r</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.D4</cell>
+                        <cell>Fourth exterior scholion</cell>
+                        <cell>VA188RN-0189@0.78150332,0.55449516,0.07092852,0.02199170</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.D5</cell>
+                        <cell>Fifth exterior scholion, located at furthest bottom right of the
+                            page</cell>
+                        <cell>VA188RN-0189@0.85722181,0.89917012,0.02008106,0.01798064</cell>
+                        <cell>188r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.D6</cell>
+                        <cell>First exterior scholion</cell>
+                        <cell>VA189RN-0360@0.81521739,0.34785615,0.02818718,0.01369295</cell>
+                        <cell>189r</cell>
+                    </row>
+                    <row>
+                        <cell>urn:cts:greekLit:tlg5026.msAext.hmt:14.D7</cell>
+                        <cell>Second exterior scholion</cell>
+                        <cell>VA189RN-0360@0.80084746,0.40968188,0.06521739,0.07468880</cell>
+                        <cell>189r</cell>
+                    </row>
+                    
+                    
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

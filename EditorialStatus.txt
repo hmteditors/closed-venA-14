@@ -4,7 +4,7 @@ Main Text Index
 - needs to be created
 
 Main Text Edition
-- initial edit complete except for folios 185v, 186r, and 186v
+- initial edit complete, should be checked for any changes in editorial standards (floating diaereses etc.), requires named entity tagging, and also check for common mistakes in beginning Sophokeys users (difficulty with capitalizations, breathings, iota subscripts, etc)
 
 Scholia Index
 - complete except for intermarginal scholia on 185r (placeholders C9, C10, C11, C12, C13)

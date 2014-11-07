@@ -41,14 +41,14 @@
                         
                         type="scholion">
                         <div type="lemma">
-                            <p> ἀεικὲς</p>
+                            <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.13</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.13@ἀειὲς</p>
                         </div>
                         <div
                             type="comment">
-                            <p> ειπρεπες</p>
+                            <p> απρεπες</p>
                         </div>
                     </div>
                     
@@ -57,14 +57,14 @@
                         
                         type="scholion">
                         <div type="lemma">
-                            <p> ὀσσόμενον </p>
+                            <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.17</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.17@ὀσσόμενον</p>
                         </div>
                         <div
                             type="comment">
-                            <p> προσημαῖνον</p>
+                            <p>προσημαῖνον</p>
                         </div>
                     </div>
                     <div n="B3"
@@ -72,14 +72,14 @@
                         
                         type="scholion">
                         <div type="lemma">
-                            <p> δαϊζόμενος </p>
+                            <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.20</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.20@δαϊζόμενος</p>
                         </div>
                         <div
                             type="comment">
-                            <p> πολεμόν μενος</p>
+                            <p>πολεμόν μενος ⁑</p>
                         </div>
                     </div>
                     <!-- 181r -->

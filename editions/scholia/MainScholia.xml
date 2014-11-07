@@ -248,23 +248,31 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.15</p>
                         </div>
                         <div type="comment">
-                            <p>ἔστι ῥῆμα <q>ἐρίπτω</q> σηναῖνον τὸ <q>πίπτω</q>· <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.389</ref><q>ἤριπε δ' ὡς ὁτε τις δρῦς ἠ <choice>
-                                    <sic>ἀχερωὶ̈ς</sic>
-                                    <corr>ἀχερωΐς</corr>
-                            </choice></q></cit>. σημαίνει δὲ καὶ τὸ <q>καταβάλλω</q> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.356</ref><q>ῥεῖα όχθας βαθείας ποσσὶν
-                                ἐρίπτων</q></cit> <choice>
+                            <p>ἔστι ῥῆμα <q>ἐρίπτω</q> σηναῖνον τὸ <q>πίπτω</q>· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.389</ref>
+                                    <q>ἤριπε δ' ὡς ὁτε τις δρῦς ἠ <choice>
+                                            <sic>ἀχερωὶ̈ς</sic>
+                                            <corr>ἀχερωΐς</corr>
+                                        </choice></q>
+                                </cit>. σημαίνει δὲ καὶ τὸ <q>καταβάλλω</q>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.356</ref>
+                                    <q>ῥεῖα όχθας βαθείας ποσσὶν ἐρίπτων</q>
+                                </cit>
+                                <choice>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντὶ</expan>
                                 </choice> τοῦ <q><choice>
-                                    <abbr>κατ</abbr>
-                                    <expan>κατὰ</expan>
-                                </choice> ῥίπτων</q> καὶ <q><choice>
-                                    <abbr>κατβάλλων</abbr>
-                                    <expan>καταβάλλων</expan>
-                                </choice></q> οὐ γίνεται παθητικὸν <q>ἐρίπτομαι</q> ἀντι τοῦ <q><choice>
-                                    <abbr>κατβάλλομαι</abbr>
-                                    <expan>καταβάλλομαι</expan>
-                                </choice></q> καὶ <q>ἠριμμαι</q> παρακείμενος καὶ <q>ἠρίμμην</q> ὐπερσυντέλικος <q>ἤριψο</q>
+                                        <abbr>κατ</abbr>
+                                        <expan>κατὰ</expan>
+                                    </choice> ῥίπτων</q> καὶ <q><choice>
+                                        <abbr>κατβάλλων</abbr>
+                                        <expan>καταβάλλων</expan>
+                                    </choice></q> οὐ γίνεται παθητικὸν <q>ἐρίπτομαι</q> ἀντι τοῦ <q><choice>
+                                        <abbr>κατβάλλομαι</abbr>
+                                        <expan>καταβάλλομαι</expan>
+                                    </choice></q> καὶ <q>ἠριμμαι</q> παρακείμενος καὶ <q>ἠρίμμην</q>
+                                ὐπερσυντέλικος <q>ἤριψο</q>
                                 <q>ηριπτο</q> καὶ ἀττικῶς διπλασιασμὸς <q>ἐρηριπτο</q> καὶ <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
@@ -272,7 +280,8 @@
                                 <choice>
                                     <abbr>συστο</abbr>
                                     <expan>συστολὴν</expan>
-                                </choice> <q>ἐρέριπτο</q> ⁑</p>
+                                </choice>
+                                <q>ἐρέριπτο</q> ⁑</p>
                         </div>
                     </div>
                     <div n="B11" ana="xx, Dindorf 16" type="scholion">
@@ -283,53 +292,63 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.16</p>
                         </div>
                         <div type="comment">
-                            <p>ὁτι πορφύρῃ μελανίζει· εἰωθεν δὲ ὅτ ἂν ἀρχὴν λαμβάνῃ <choice><abbr>κινήματ</abbr><expan>κινήματος</expan></choice> ἡ
-                                θάλασσα μελανίζειν δι ὃ μεταφέρει ἐπι τοὺς κατα ψυχὴν μεριμνῶντας καὶ
-                                ταρασσομένους καὶ ὁτι κωφῷ λέγει τῷ ἀφώνῷ καὶ μηδέπω <choice><abbr>καχλάζοντ</abbr><expan>καχλάζοντι</expan></choice>
-                                καὶ ἀποτελοῦντι ήχν· μηδεπω γὰρ ἀνέμον εὐκρινοῦς ὀντος τὸ κῦμα
-                                ηρεμεῖ ⁑</p>
+                            <p>ὁτι πορφύρῃ μελανίζει· εἰωθεν δὲ ὅτ ἂν ἀρχὴν λαμβάνῃ <choice>
+                                    <abbr>κινήματ</abbr>
+                                    <expan>κινήματος</expan>
+                                </choice> ἡ θάλασσα μελανίζειν δι ὃ μεταφέρει ἐπι τοὺς κατα ψυχὴν
+                                μεριμνῶντας καὶ ταρασσομένους καὶ ὁτι κωφῷ λέγει τῷ ἀφώνῷ καὶ μηδέπω <choice>
+                                    <abbr>καχλάζοντ</abbr>
+                                    <expan>καχλάζοντι</expan>
+                                </choice> καὶ ἀποτελοῦντι ήχν· μηδεπω γὰρ ἀνέμον εὐκρινοῦς ὀντος τὸ
+                                κῦμα ηρεμεῖ ⁑</p>
                         </div>
                     </div>
-                    
-                    
-                    <!-- START HERE! -->
                     <div n="B12" ana="xx, Dindorf 20" type="scholion">
                         <div type="lemma">
-                            <p> δαϊζόμενος</p>
+                            <p>δαϊζόμενος</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.20</p>
                         </div>
                         <div type="comment">
-                            <p> διχῆ μεριζόμενοσ τῶ σκέμματι τὸν λογισμὸν τουτέστιν ἐπὶ πολλὰ τὸν
-                                λογισμὸν μεταφέρων καὶ διασκοπούμενος</p>
+                            <p>διχῆ μεριζόμενος τῷ σκέμματι τῶν λογισμῶν τουτέστιν ἐπι πολλὰ τὸν
+                                λογισμὸν μεταφέρων καὶ διασκοπούμενος ⁑</p>
                         </div>
                     </div>
                     <div n="B13" ana="xx, Dindorf 21" type="scholion">
                         <div type="lemma">
-                            <p>ιχθάδι᾽, ἢ μεθ᾽ ὅμιλον</p>
+                            <p>διχθάδει ῆ μεθ ὅμιλον</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.21</p>
                         </div>
                         <div type="comment">
-                            <p> τὸ πλῆρες ἐστι διχθάδια ὡσπερ καὶ <persName>ἀρίσταρχος</persName>
-                                βοῦλεται. διὸ τὴν χθα συλλαβὴν ὀξυτονητέον. παραιτητέον δὲ τοὺς
-                                βουλομένους εῖναι διχθαδίη̣ μεθ' ὀμιλον καὶ τὴν δι συλλαβὴν
-                                ὀξύνοντασ</p>
+                            <p> τὸ πλῆρες ἐστι διχθαδια ὥσπερ καὶ <persName
+                                    n="urn:cite:hmt:pers.pers17">Ἀρίσταρχος</persName> βούλεται διὃ
+                                τὴν <rs type="waw">χθὰ</rs> συλλαβὴν <choice>
+                                    <abbr>ὀξυτονητ</abbr>
+                                    <expan>ὀξυτονητέον</expan>
+                                </choice>· παραιτητεον δὲ τοὺς βουλομένους εῖναι <q>διχθαδίηα ἠ μεθ'
+                                    ὅμιλον</q> καὶ τὴν <rs type="waw">δὴ</rs>
+                                <choice>
+                                    <abbr>συλλα</abbr>
+                                    <expan>συλλαβὴν</expan>
+                                </choice> ὀξύνοντας ⁑</p>
                         </div>
                     </div>
                     <div n="B14" ana="xx, Dindorf 25" type="scholion">
                         <div type="lemma">
-                            <p> λάκε</p>
+                            <p>λάκε</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.25</p>
                         </div>
                         <div type="comment">
-                            <p>οἱ μὲν ἠλλάχθαι τὸν χρόνον οἱ δὲ ἀντὶ τοῦ ἰληκε ἐνδεία̣ τοῦ ε ὡς
-                                ἀνωρον κραδίην ἐχεις καὶ ἰωνικῆ συστολῆ τοῦ η εἰς α λάκε
-                                ὠνοματοπεποίηται δὲ ὁθεν καὶ ἡ λακὶσ</p>
+                            <p>οἱ μὲν ἡλλάχθαι τὸν χρόνον. οἱ δὲ ἀντι τοῦ <q>ἴληκε</q> ἐνδείᾳ τοῦ <rs type="waw">ϊ</rs>
+                                ὡς ἄνωρον κραδίην ἔχεις καὶ ϊωνικῇ συστοων τοῦ <rs type="waw">η</rs> εἰς <rs type="waw">α</rs> λάκε <choice>
+                                    <abbr>ῶνοματοπεποίητ</abbr>
+                                    <expan>ῶνοματοπεποίηται</expan>
+                                </choice> δὲ ὅθεν καὶ ἡ λακὶς ⁑</p>
                         </div>
                     </div>
 

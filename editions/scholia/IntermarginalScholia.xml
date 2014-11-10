@@ -75,7 +75,11 @@
                             <p><choice>
                                     <abbr>οτ</abbr>
                                     <expan>ὁτι</expan>
-                                </choice> ἔναχρ <choice><abbr>σημ</abbr><expan>σηαίνει</expan></choice> <choice>
+                                </choice> ἔναχρ <choice>
+                                    <abbr>σημ</abbr>
+                                    <expan>σηαίνει</expan>
+                                </choice>
+                                <choice>
                                     <abbr>βούλετ</abbr>
                                     <expan>βούλεται</expan>
                                 </choice> δὲ νῦν ἀντι τοῦ <rs type="waw">ἐλελήκει</rs> ⁑</p>
@@ -88,7 +92,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.28</p>
                         </div>
                         <div type="comment">
-                            <p>ὁτι συλλητικῶς εἰρηκεν βεβλήατο επι τῶν ουτασμενων</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὁτι</expan>
+                                </choice> συλληπτικῶς εἴρηκεν βεβλήατο επι τῶν <choice>
+                                    <abbr>ουτασμε</abbr>
+                                    <expan>ουτασμενων</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="B5" ana="45b" type="scholion">
@@ -97,7 +107,12 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.45</p>
                         </div>
                         <div type="comment">
-                            <p><persName>ἀριστοφάνης</persName> ὁς ποτε δια τοῦ γραφει</p>
+                            <p><choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
+                                        >Αριστοφ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers21"
+                                            >Αριστοφάνης</persName></expan>
+                                </choice> ὅς ποτε δια τοῦ <rs type="waw">ο</rs> γράφει ⁑</p>
                         </div>
                     </div>
                     <!-- 181v -->

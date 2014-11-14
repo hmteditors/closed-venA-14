@@ -407,8 +407,8 @@
                         <div type="comment">
                             <p> ὅσον ἠν διάστημα ὅσον συνεκλειον καὶ συνδέσμουν αἰ τοῦ <placeName
                                     n="urn:cite:hmt:place.place22">Ἐλλησπόντου</placeName> ἄκραι τὸ
-                                    <placeName>ῥύτιον</placeName> καὶ τὸ
-                                    <placeName>σίγιον</placeName> ⁑</p>
+                                    <placeName n="urn:cite:hmt:place.place425">Ῥύτιον</placeName> καὶ τὸ
+                                    <placeName>Σίγιον</placeName> ⁑</p>
                         </div>
                     </div>
                     <div n="B18" ana="37a" type="scholion">
@@ -580,7 +580,7 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.181</ref>
                                     <q>μνημοσύνῃ τις ἔπειτα πυρὸς δηΐοιο γενέσθω ὡς πυρὶ νῆας</q>
                                 </cit> ἐξάκουστα δὲ ἐγίνετο παρα τοῖς πολεμίοις ὡς καὶ τὰ περὶ
-                                    <persName>Ὀθρυονέα</persName> ⁑</p>
+                                    <persName n="urn:cite:hmt:pers.pers881">Ὀθρυονέα</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="B26" ana="48b" type="scholion">

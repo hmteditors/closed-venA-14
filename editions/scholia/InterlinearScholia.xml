@@ -92,7 +92,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.75 </p>
                         </div>
                         <div type="comment">
-                            <p> ειλκυσμένοι εἰσὶ </p>
+                            <p><choice><abbr>ειλκυσμε</abbr><expan>ειλκυσμένοι</expan></choice> εἰσὶ</p>
                         </div>
                     </div>
                     <!-- 182r -->
@@ -104,7 +104,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.86 </p>
                         </div>
                         <div type="comment">
-                            <p> κατεργάζεται: </p>
+                            <p>κατεργάζεται:</p>
                         </div>
                     </div>
                     <div n="E3" type="scholion">
@@ -115,7 +115,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.101 </p>
                         </div>
                         <div type="comment">
-                            <p> ανθέξουσι περιβλέψονται φυγεῖν⁑ </p>
+                            <p>ανθέξουσι <choice><abbr>πεβλέψονται</abbr><expan>περιβλέψονται</expan></choice> φυγεῖν ⁑</p>
                         </div>
                     </div>
                     <!-- 182v -->

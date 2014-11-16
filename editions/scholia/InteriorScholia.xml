@@ -104,7 +104,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.54</p>
                         </div>
                         <div type="comment">
-                            <p> ἡ πὰρα περιττή </p>
+                            <p> ἡ <q>παρα</q> περιττή </p>
                         </div>
                     </div>
                     <div n="E2" type="scholion">
@@ -116,8 +116,13 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <persName>Ἀριστοφάνης</persName> χωρὶς τοῦ <rs type="waw">σ</rs>
-                                "γνοίη"⁑</p>
+                                <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
+                                        >Ἀριστοφ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers21"
+                                            >Ἀριστοφάνης</persName></expan>
+                                </choice> χωρὶς τοῦ <rs type="waw">σ</rs>
+                                <q>γνοίη</q> ⁑</p>
                         </div>
                     </div>
                     <div n="E3" type="scholion">
@@ -128,7 +133,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.62</p>
                         </div>
                         <div type="comment">
-                            <p> ἄλλοι· "νόος γ' έρξει" </p>
+                            <p>ἄλλοι· <q>νόος γ' έρξει</q></p>
                         </div>
                     </div>
                     <div n="E4" type="scholion">
@@ -139,7 +144,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.63</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι πάλιν συλληπτικῶς οὐ γὰρ πάντες ἐβέβλητο:</p>
+                            <p>
+                                <choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> πάλιν συλληπτικῶς οὐ γὰρ πάντες ἐβέβλητο:</p>
                         </div>
                     </div>
                     <div n="E5" type="scholion">
@@ -150,7 +159,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.69 </p>
                         </div>
                         <div type="comment">
-                            <p> νωνύμνους απολεσθαι απ' <persName>Άργεος</persName> ἔνθαδ' αχαιοὺς
+                            <p>
+                                <q>νωνύμνους <choice>
+                                        <abbr>απλεσθαι</abbr>
+                                        <expan>απολεσθαι</expan>
+                                    </choice> απ <placeName n="urn:cite:hmt:place.place114"
+                                        >Άργεος</placeName> ἔνθαδ' <rs type="ethnic"
+                                        n="urn:cite:hmt:place.place96">Αχαιοὺς</rs></q>
                             </p>
                         </div>
                     </div>
@@ -163,8 +178,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.89 </p>
                         </div>
                         <div type="comment">
-                            <p> αἱ <persName>Ζηνοδότου</persName> "ἐκπέρσειν" οὐ καλλείψειν καὶ
-                                παρίστησιν ῆθος: </p>
+                            <p>αἱ <choice><abbr><persName n="urn:cite:hmt:pers.pers15"
+                                    >Ζηνοδοτ</persName></abbr><expan><persName
+                                        n="urn:cite:hmt:pers.pers15">Ζηνοδότου</persName></expan></choice>
+                                <q>ἐκπέρσειν</q> οὐ καλλείψειν καὶ παρίστησιν ῆθος :</p>
                         </div>
                     </div>
                     <div n="E7" type="scholion">
@@ -175,7 +192,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.91 </p>
                         </div>
                         <div type="comment">
-                            <p> ὃν οὐχ ἕτερος εἴποι: </p>
+                            <p>ὃν οὐχ ἕτερος εἴποι:</p>
                         </div>
                     </div>
                     <div n="E8" type="scholion">
@@ -186,7 +203,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.98 </p>
                         </div>
                         <div type="comment">
-                            <p> ἐπικρατοῦσι </p>
+                            <p><q>ἐπικρατοῦσι</q></p>
                         </div>
                     </div>
                     <!-- 182v -->

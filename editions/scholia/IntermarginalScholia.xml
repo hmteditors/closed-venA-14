@@ -122,7 +122,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.69</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι αντὶ έοικεν</p>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>αντὶ</expan></choice> έοικεν</p>
                         </div>
                     </div>
                     <!-- 182r -->
@@ -132,7 +132,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.81</p>
                         </div>
                         <div type="comment">
-                            <p>ἐλλείπει τὸ ἠ μείνας ἀλώῃ,</p>
+                            <p>ἐλλείπει τὸ <rs type="waw">ἠ</rs> μίνας <q>ἀλώῃ</q>,</p>
                         </div>
                     </div>
                     <div ana="14.92" n="E3" type="scholion">
@@ -141,7 +141,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.92</p>
                         </div>
                         <div type="comment">
-                            <p> οὕτως ἐπίσταιτο:</p>
+                            <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> ἐπίσταιτο:</p>
                         </div>
                     </div>
                     <!-- 182v -->

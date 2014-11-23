@@ -282,7 +282,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.135</p>
                         </div>
                         <div type="comment">
-                            <p> ὁτι <persName>Ζηνοδοτος</persName> γράφει οὐδ' αλαὸν σκοπίήν:⁑</p>
+                            <p> <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr><persName n="urn:cite:hmt:pers.pers15">Ζηνοδ</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName></expan></choice> γράφει <q>οὐδ' αλαὸν σκοπίήν</q> ⁑</p>
                         </div>
                     </div>
                     <div n="G3" type="scholion">
@@ -293,8 +293,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.148</p>
                         </div>
                         <div type="comment">
-                            <p> ἡ <persName>αριστοφάνους</persName> δια τοῦ δε οσσὸν δ' εννεαχιλοι
-                                επίαχον⁑ </p>
+                            <p> ἡ <persName n="urn:cite:hmt:pers.pers21">Αριστοφάνους</persName> δια τοῦ <q>δε</q> <q>οσσὸν δ' εννεαχιλοι
+                                επίαχον</q> ⁑ </p>
                         </div>
                     </div>
                     <!-- 183v -->

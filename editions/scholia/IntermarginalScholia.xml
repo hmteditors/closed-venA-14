@@ -205,7 +205,7 @@
                             <p>ἐν <choice>
                                     <abbr>αλλ</abbr>
                                     <expan>ἄλλῳ</expan>
-                                </choice>συ δ' επόψεαι αυτους ⁑</p>
+                                </choice> <q>συ δ' επόψεαι αυτους</q> ⁑</p>
                         </div>
                     </div>
                     <div n="G2" type="scholion">
@@ -214,10 +214,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.147</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι <choice>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice>
                                     <abbr>ἐλλειπ</abbr>
                                     <expan>ἐλλείπει</expan>
-                                </choice> ἡ διὰ δια πεδίον</p>
+                                </choice> ἡ <q>διὰ</q> <q>δια πεδίον</q></p>
                         </div>
                     </div>
                     <!-- 183v -->

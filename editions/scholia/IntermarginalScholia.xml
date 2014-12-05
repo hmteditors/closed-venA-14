@@ -122,7 +122,14 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.69</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>αντὶ</expan></choice> έοικεν</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>αντὶ</expan>
+                                </choice> έοικεν</p>
                         </div>
                     </div>
                     <!-- 182r -->
@@ -141,7 +148,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.92</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> ἐπίσταιτο:</p>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> ἐπίσταιτο:</p>
                         </div>
                     </div>
                     <!-- 182v -->
@@ -205,7 +215,8 @@
                             <p>ἐν <choice>
                                     <abbr>αλλ</abbr>
                                     <expan>ἄλλῳ</expan>
-                                </choice> <q>συ δ' επόψεαι αυτους</q> ⁑</p>
+                                </choice>
+                                <q>συ δ' επόψεαι αυτους</q> ⁑</p>
                         </div>
                     </div>
                     <div n="G2" type="scholion">
@@ -214,10 +225,15 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.147</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <choice>
                                     <abbr>ἐλλειπ</abbr>
                                     <expan>ἐλλείπει</expan>
-                                </choice> ἡ <q>διὰ</q> <q>δια πεδίον</q></p>
+                                </choice> ἡ <q>διὰ</q>
+                                <q>δια πεδίον</q></p>
                         </div>
                     </div>
                     <!-- 183v -->
@@ -227,7 +243,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.153</p>
                         </div>
                         <div type="comment">
-                            <p> παραγραπτεον ἐπάνω δια τὸ ετέρων πραγμάτων ἀρχὴν εῖναι</p>
+                            <p>παραγραπτεον ἐπάνω δια τὸ ετέρων πραγμάτων ἀρχὴν εῖναι ⁑</p>
                         </div>
                     </div>
                     <div n="G4" type="scholion">
@@ -239,7 +255,10 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <persName>αρισταρχος</persName> πολυπίδακος αλλοι δὲ πολύπίδακου
+                                <choice><abbr><persName n="urn:cite:hmt:pers.pers16"
+                                    >Αρισταρχ</persName></abbr><expan><persName
+                                        n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName></expan></choice>
+                                <q>πολυπίδακος</q> αλλοι δὲ <q>πολύπίδακου :</q>
                             </p>
                         </div>
                     </div>
@@ -249,7 +268,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.163 </p>
                         </div>
                         <div type="comment">
-                            <p>ἐν αλλῳ. ὅπως ϊμείραιτο </p>
+                            <p>ἐν αλλῳ. <q>ὅπως ϊμείραιτο</q> ⁑</p>
                         </div>
                     </div>
                     <div n="G6" type="scholion">
@@ -258,7 +277,12 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.167</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι πληθυντικῶς τήν θύραν θύρας </p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> πληθυντικῶς <q>τήν θύραν</q>
+                                <q>θύρας</q>
+                            </p>
                         </div>
                     </div>
                     <div n="G7" type="scholion">
@@ -268,7 +292,10 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <persName>αρισταρχος</persName> κατα χαλκοβατεὶ</p>
+                                <choice><abbr><persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρισταρχ</persName></abbr><expan><persName
+                                        n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName></expan></choice>
+                                κατα <q>χαλκοβατεὶ</q></p>
                         </div>
                     </div>
                     <div n="G8" type="scholion">
@@ -278,8 +305,13 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <persName>ζηνοδοτος</persName>
-                                <persName>αριστοφανης</persName> καλὸυς καὶ μεγάλους </p>
+                                <choice><abbr><persName n="urn:cite:hmt:pers.pers15"
+                                        >Ζηνοδ</persName></abbr><expan><persName
+                                        n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName></expan></choice>
+                                καὶ <choice><abbr><persName n="urn:cite:hmt:pers.pers21"
+                                    >Αριστοφ</persName></abbr><expan><persName
+                                        n="urn:cite:hmt:pers.pers21">Αριστοφανης</persName></expan></choice>
+                                <q>καλοὺς καὶ μεγάλους</q> ⁑</p>
                         </div>
                     </div>
                     <!-- 184r -->

@@ -126,10 +126,10 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.154 </p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.154@ἀπο ῥίου</p>
                         </div>
                         <div type="comment">
-                            <p> απο του ακρουτηρίου </p>
+                            <p> απο του ακρωτηρίου </p>
                         </div>
                     </div>
                     <div n="G2" type="scholion">
@@ -137,10 +137,10 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.156</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.156@δᾱέρα</p>
                         </div>
                         <div type="comment">
-                            <p> ανδρος αδελφόν </p>
+                            <p>ανδρος ἀδελφόν</p>
                         </div>
                     </div>
                     <div n="G3" type="scholion">
@@ -148,10 +148,10 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.160</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.160@ἐξαπάφοιτο</p>
                         </div>
                         <div type="comment">
-                            <p> εξαπατήσειε </p>
+                            <p>εξαπατήσειε</p>
                         </div>
                     </div>
                     <div n="G4" type="scholion">
@@ -159,7 +159,7 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.163</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.163@ϊμείραιτο</p>
                         </div>
                         <div type="comment">
                             <p> ἐρασθῆ </p>
@@ -170,7 +170,7 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.163</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.163@παραδραθέειν</p>
                         </div>
                         <div type="comment">
                             <p> συγκοιμηθῆναι </p>

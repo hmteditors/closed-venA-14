@@ -304,8 +304,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.154</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι όρος ὁ <placeName>όλυμπος</placeName> καί ρια ἔχει καί απο τῶν
-                                ορῶν ἐπιθεωροῦσι⁑ </p>
+                            <p><choice>
+                                <abbr>οτ</abbr>
+                                <expan>ὅτι</expan>
+                            </choice> όρος ὁ <placeName n="urn:cite:hmt:place.place45">Όλυμπος</placeName> καί ρια ἔχει καί απο τῶν
+                                ορῶν ἐπιθεωροῦσι ⁑ </p>
                         </div>
                     </div>
                     <!-- 184r -->

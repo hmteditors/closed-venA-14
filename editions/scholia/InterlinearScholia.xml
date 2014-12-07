@@ -92,7 +92,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.75 </p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>ειλκυσμε</abbr><expan>ειλκυσμένοι</expan></choice> εἰσὶ</p>
+                            <p><choice>
+                                    <abbr>ειλκυσμε</abbr>
+                                    <expan>ειλκυσμένοι</expan>
+                                </choice> εἰσὶ</p>
                         </div>
                     </div>
                     <!-- 182r -->
@@ -115,7 +118,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.101 </p>
                         </div>
                         <div type="comment">
-                            <p>ανθέξουσι <choice><abbr>πεβλέψονται</abbr><expan>περιβλέψονται</expan></choice> φυγεῖν ⁑</p>
+                            <p>ανθέξουσι <choice>
+                                    <abbr>πεβλέψονται</abbr>
+                                    <expan>περιβλέψονται</expan>
+                                </choice> φυγεῖν ⁑</p>
                         </div>
                     </div>
                     <!-- 182v -->
@@ -182,43 +188,46 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.179 </p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.179@ἔξυσ'</p>
                         </div>
                         <div type="comment">
-                            <p>ὑφη </p>
+                            <p>ὑφη</p>
                         </div>
                     </div>
                     <div n="C2" type="scholion">
                         <div type="lemma">
-                            <p> </p>
+                            <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.182 </p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.182@ἕρματα</p>
                         </div>
                         <div type="comment">
-                            <p> ενώτια </p>
+                            <p>ενώτια</p>
                         </div>
                     </div>
                     <div n="C3" type="scholion">
                         <div type="lemma">
-                            <p> </p>
+                            <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.183 </p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.183@τρίγληνα</p>
                         </div>
                         <div type="comment">
-                            <p>τρίκκοκα </p>
+                            <p>τρίκκοκα</p>
                         </div>
                     </div>
                     <div n="C4" type="scholion">
                         <div type="lemma">
-                            <p> </p>
+                            <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.183 </p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.183@μορόεντα</p>
                         </div>
                         <div type="comment">
-                            <p> μετα κακοπαθείας εἰργασμενα⁑</p>
+                            <p>μετα κακοπαθείας <choice>
+                                    <abbr>εἰργασμε</abbr>
+                                    <expan>εἰργασμένα</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <!-- 184v -->
@@ -230,7 +239,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.203</p>
                         </div>
                         <div type="comment">
-                            <p> τῆς ῥέας </p>
+                            <p>τῆς ρέας</p>
                         </div>
                     </div>
                     <!-- 185r -->

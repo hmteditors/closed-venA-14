@@ -255,9 +255,12 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <choice><abbr><persName n="urn:cite:hmt:pers.pers16"
-                                    >Αρισταρχ</persName></abbr><expan><persName
-                                        n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName></expan></choice>
+                                <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
+                                        >Αρισταρχ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers16"
+                                            >Αρισταρχος</persName></expan>
+                                </choice>
                                 <q>πολυπίδακος</q> αλλοι δὲ <q>πολύπίδακου :</q>
                             </p>
                         </div>
@@ -292,10 +295,12 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <choice><abbr><persName n="urn:cite:hmt:pers.pers16"
-                                    >Ἀρισταρχ</persName></abbr><expan><persName
-                                        n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName></expan></choice>
-                                κατα <q>χαλκοβατεὶ</q></p>
+                                <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
+                                        >Ἀρισταρχ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers16"
+                                            >Ἀρισταρχος</persName></expan>
+                                </choice> κατα <q>χαλκοβατεὶ</q></p>
                         </div>
                     </div>
                     <div n="G8" type="scholion">
@@ -305,12 +310,17 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <choice><abbr><persName n="urn:cite:hmt:pers.pers15"
-                                        >Ζηνοδ</persName></abbr><expan><persName
-                                        n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName></expan></choice>
-                                καὶ <choice><abbr><persName n="urn:cite:hmt:pers.pers21"
-                                    >Αριστοφ</persName></abbr><expan><persName
-                                        n="urn:cite:hmt:pers.pers21">Αριστοφανης</persName></expan></choice>
+                                <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
+                                        >Ζηνοδ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers15"
+                                            >Ζηνοδοτος</persName></expan>
+                                </choice> καὶ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
+                                        >Αριστοφ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers21"
+                                            >Αριστοφανης</persName></expan>
+                                </choice>
                                 <q>καλοὺς καὶ μεγάλους</q> ⁑</p>
                         </div>
                     </div>
@@ -321,7 +331,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.185</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν αλλῳ λαμπρον δ' ἦν: </p>
+                            <p>ἐν αλλῳ <q>λαμπρὸν δ' ἦν</q>:</p>
                         </div>
                     </div>
                     <div n="C2" type="scholion">
@@ -330,7 +340,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.195</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν αλλῳ ἀνώγει: </p>
+                            <p>ἐν αλλῳ <q>ἀνώγει</q>:</p>
                         </div>
                     </div>
                     <div n="C3" type="scholion">
@@ -339,7 +349,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.198</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν αλλῳ δὸς νῦν μοι νῦν, </p>
+                            <p>ἐν αλλῳ <q>δὸς νῦν μοι νῦν</q>,</p>
                         </div>
                     </div>
                     <!-- 184v -->
@@ -349,8 +359,22 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.203</p>
                         </div>
                         <div type="comment">
-                            <p>δια τοῦ “α” “ρείας” ἁι <name>'Αρισταρχος</name> ουτως καὶ
-                                    <name>'Aριστοφανης</name>:</p>
+                            <p>δια τοῦ <rs type="waw">α</rs>
+                                <q>ῥείας</q> ἁι <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
+                                        >Ἀρισταρχ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers16"
+                                            >Ἀριστάρχου</persName></expan>
+                                </choice>
+                                <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> καὶ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
+                                        >Ἀριστοφ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers21"
+                                            >Ἀριστοφάνης</persName></expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="C5" type="scholion">
@@ -359,7 +383,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.216</p>
                         </div>
                         <div type="comment">
-                            <p>ἔν τισι τῶν ὑπο μνηματων ἠδ' ὀαριστύς:</p>
+                            <p>ἔν τισι τῶν <choice>
+                                    <abbr>ὑπομνηματ</abbr>
+                                    <expan>ὑπομνημάτων</expan>
+                                </choice>
+                                <q>ἡδ' ὁ ἀριστύς</q>:</p>
                         </div>
                     </div>
                     <div n="C6" type="scholion">
@@ -368,7 +396,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.218</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι πτῶσις ἐνηλακται αντι ἀυτῆς ταῖς χερσεν:</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> πτῶσις ἐνηλλακται <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> ἀυτῆς <q>ταῖς χερσιν</q> ⁑</p>
                         </div>
                     </div>
                     <div n="C7" type="scholion">
@@ -377,7 +411,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.223</p>
                         </div>
                         <div type="comment">
-                            <p><name>'Αρισταρχος</name> μέσωι ἄλλοι δὲ εωί. </p>
+                            <p><choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
+                                        >Ἀρισταρχ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers16"
+                                            >Ἀρίσταρχος</persName></expan>
+                                </choice>
+                                <q>μέσῳ</q> ἄλλοι δὲ, <w>ἑῷ`</w></p>
                         </div>
                     </div>
                     <div n="C8" type="scholion">
@@ -386,7 +426,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.227</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν αλλων ἐσσυτ''εφ ἱπποπόλων⁑</p>
+                            <p>ἐν αλλῳ <q>ἐσσυτ' ἐφ ἱπποπόλων</q> ⁑</p>
                         </div>
                     </div>
                     <!-- 185r -->

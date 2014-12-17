@@ -1616,27 +1616,32 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.226</p>
                         </div>
                         <div type="comment">
-                            <p><persName>Μακεδὼν</persName> ὁ <persName n="urn:cite:hmt:pers.pers8"
-                                    >Διὸς</persName> καὶ <persName>Αἰθρίας</persName>
+                            <p><persName n="urn:cite:hmt:pers.pers888">Μακεδὼν</persName> ὁ
+                                    <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> καὶ
+                                    <persName n="urn:cite:hmt:pers.pers889">Αἰθρίας</persName>
                                 <choice>
                                     <sic>κατασχῶν</sic>
                                     <corr>κατασχὼν</corr>
                                 </choice> τὴν χώραν οὖσαν τῆς <placeName
                                     n="urn:cite:hmt:place.place70">θρᾴκης</placeName> ἀφ ἑαυτοῦ
                                 προσηγόρευσεν γήμας δὲ μίαν τῶν ἐγχωρίων, τεκνοῦται δύο παῖδας
-                                    <persName>Πίερον</persName> καὶ <persName>Ἄμαθον</persName>. ἀφ'
+                                    <persName n="urn:cite:hmt:pers.pers890">Πίερον</persName> καὶ
+                                    <persName n="urn:cite:hmt:pers.pers891">Ἄμαθον</persName>. ἀφ'
                                 ὧν δύο <choice>
                                     <abbr>πολ</abbr>
                                     <expan>πολεις</expan>
                                 </choice>
                                 <placeName>Πιερίαι</placeName> καὶ <placeName>Αμαθίαι</placeName> ἐν
-                                    <placeName>Μακεδονία</placeName>. ἡ ϊστορία παρὰ
-                                    <persName>Μαρσύια</persName>. νῦν δὲ
-                                    <placeName>Ἡμαθιην</placeName> καταχρηστικῶς ὅλην
-                                    <placeName>Μακεδονίαν</placeName>
+                                    <placeName n="urn:cite:hmt:place.place33">Μακεδονία</placeName>.
+                                ἡ ϊστορία παρὰ <persName n="urn:cite:hmt:pers.pers892"
+                                    >Μαρσύια</persName>. νῦν δὲ <placeName
+                                    n="urn:cite:hmt:place.place33">Ἡμαθιην</placeName> καταχρηστικῶς
+                                ὅλην <placeName n="urn:cite:hmt:place.place33"
+                                    >Μακεδονίαν</placeName>
                                 <w>φασ῀ίν</w>
-                                <placeName>Πιερίαν</placeName> δὲ ὅρος
-                                    <placeName>Μακεδονίας</placeName> ἱερὸν Μουσῶν ⁑</p>
+                                <placeName n="urn:cite:hmt:place.place426">Πιερίαν</placeName> δὲ
+                                ὅρος <placeName n="urn:cite:hmt:place.place33"
+                                    >Μακεδονίας</placeName> ἱερὸν Μουσῶν ⁑</p>
                         </div>
                     </div>
                     <!-- 185r -->
@@ -1750,81 +1755,115 @@
                         </div>
                         <div type="comment">
                             <p>οὕτως τὴν γραφὴν παρατίθεται ὁ <persName
-                                    n="urn:cite:hmt:pers.pers493">Ἡρῳδιανος</persName> ἐν τῷ <num value="17">ιζ</num>
-                                τῆς καθόλου καί λέγοι ἀπο τοῦ <q>ἐπέχοι</q> πλεονασμον εῖναι
-                                τοῦ <rs type="waw">ς</rs> ἠ συστολην τοῦ <q>ἐπισχοίης</q> :</p>
+                                    n="urn:cite:hmt:pers.pers493">Ἡρῳδιανος</persName> ἐν τῷ <num
+                                    value="17">ιζ</num> τῆς καθόλου καί λέγοι ἀπο τοῦ <q>ἐπέχοι</q>
+                                πλεονασμον εῖναι τοῦ <rs type="waw">ς</rs> ἠ συστολην τοῦ
+                                    <q>ἐπισχοίης</q> :</p>
                         </div>
                     </div>
                     <div ana="241" n="C25" type="scholion">
                         <div type="lemma">
-                            <p> START HERE!!!!!ἐπίσχοιες</p>
+                            <p>ἐπίσχοιες:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.241</p>
                         </div>
                         <div type="comment">
-                            <p> ἐπίσχοιες: τῶι ἐπίσχοιμι ἀκόλουθον ἐστι τὸ ἐπίσοις. τῶι δὲ ἔπισχοίης
-                                τὸ επισχοίην καὶ ἴσως έδει ὅυτως ἐχειν· παρεφθάρη δὲ ὑπὸ τῶν μετα
-                                χαρατηρις άντων. τῶι δὲ χαρακτῆρι γενθμενον ὅμοιον τῶι ϊόιην καὶ
-                                αγαγοίην παρα <name>Σαπφοϊ</name> καὶ τὸ πεπαγοίην. παρευπόλιδ:
-                                ἐικότως ἐβαρυ τον ηθη τὸ ἐπισχοες. γενόμενον ἐπισχοιες ὡς
-                                    <name>Αιολικόν</name>. ὅυτω καὶ <name>'Αλέξανδρος</name> ὁ
-                                    <name>Κοτιαευς</name> ἐν τῶι <rs type="waw">“ϊ”</rs> τῶν
-                                παντοδαπων: </p>
+                            <p>τῷ <q>ἐπίσχοιμι</q> ἀκόλουθον ἐστι τὸ <q>ἐπίσχοις</q>. τῷ δὲ
+                                    <q>ἔπισχοίης</q>, τὸ <q>επισχοίην</q> καὶ ἴσως έδει ὅυτως ἔχειν·
+                                παρεφθάρη δὲ <choice>
+                                    <abbr>υπ</abbr>
+                                    <expan>ὑπὸ</expan>
+                                </choice> τῶν μετα χαρατηρις αύτων. τῷ δὲ χαρακτῆρι γενώμενον ὅμοιον
+                                τῷ ϊοίην καὶ ἀγαγοίην παρὰ <persName n="urn:cite:hmt:pers.pers684"
+                                    >Σαπφοϊ</persName>, καὶ τὸ πεπαγοίην, παρευπόλιδι· εἰκότως <choice>
+                                    <abbr>ἐβαρυτονηθ</abbr>
+                                    <expan>ἐβαρυτονήθη</expan>
+                                </choice> τὸ <q>ἐπισχοιης</q>. γενόμενον <q>ἐπισχοιες</q> ὡς
+                                Αιολικόν. <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτω</expan>
+                                </choice> καὶ <persName n="urn:cite:hmt:pers.pers110">Ἀλέξανδρος ὁ
+                                    Κοτιαεὺς</persName> ἐν τῷ <rs type="waw">ϊ</rs> τῶν
+                                παντοδαπῶν:</p>
                         </div>
                     </div>
                     <div ana="249" n="C26" type="scholion">
                         <div type="lemma">
-                            <p>καὶ ἄλλοτεὴ </p>
+                            <p>καὶ ἄλλοτεὴ.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.249</p>
                         </div>
                         <div type="comment">
-                            <p> καὶ ἄλλοτεὴ. <name>'Αρίσταρχοσ</name> ἐλλέινειν φησὶ τὴν κατα καὶ
-                                ἐκδέχεται τὴν ἀντω νυμίαν ἐυθειας πτώσεως καὶ κατ' ἀλλο ἡ σὴ
-                                ἐσοφρονισεν ἐντολή ὥστε εῖναι ἡ τεή· <name>Παρμενίκοσ</name> δὲ
-                                ἐκδέχεται ἐπιρρημα τὸ ἄλλο τε δασύνει τὸ “η” καὶ περισπᾶ. 'επι
-                                δοτικῆς πτωσεως ἵνα ὁ <name>Ζεὺς</name> ὑπάρχει. ὁ ζεὺς τηῖ ηῖ με
-                                εσωφρο‘νισεν ἐν τοληῖ '<name>Αλεξίων</name> δὲ προκρίνει τὴν
-                                    <name>'Αριστὰρχου</name>· φησὶ γὰρ ἄπο τοῦ “τ” ἀρκτέον. καὶ
-                                ἡμεῖν δὲ δοκεῖ προς γὰρ τὴν <name>‘Ηραν</name>. ἡ ἀπότασις εστιν.
-                                ἀυτος γοῦν ἐπεξ ηγεῖται ἀυτὸ νῦν ἀν τοῦτό μ' ἄν μιγας ἀμήχανον ἄλλο
-                                τελέσσαι τοι οῦτον γὰρ λέγει. ἤδη γάρ με καὶ αλλοτε ἡ σῆ ἐσωφρόνισεν
-                                ἐντολή. ὅδε ἐπιθέτης <name>Πτολευαιοσ</name> καὶ
-                                    <name>Ζηνοδοτοσ</name> σὺν τῶι “ϊ” γράφουσιν οἷον τῆι σῆι
-                                ἐντοληῖ ἐσωφρονισέν με⁑ </p>
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                ἐλλείπειν φησὶ τὴν <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> καὶ ἐκδέχεται τὴν ἀντωνυμίαν ἐυθειας πτώσεως καὶ κατ'
+                                άλλο. ἡ σὴ ἐσοφρονισεν ἐντολὴ ὥστε εῖναι ἡ τεή· <persName
+                                    n="urn:cite:hmt:pers.pers221">Παρμενίσκος</persName> δὲ
+                                ἐκδέχεται <choice>
+                                    <abbr>ἐπίρρημ</abbr>
+                                    <expan>ἐπίρρημα</expan>
+                                </choice> τὸ ἄλλο τε καὶ δασύνει τὸ <rs type="waw">η</rs> καὶ
+                                περισπᾶ. ἐπι δοτικῆς πτώσεως ἵνα ὁ <persName
+                                    n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ὑπάρχει. ὁ <persName
+                                    n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> τῇ ῇ με ἐσωφρόνισεν
+                                ἐντολῇ <persName n="urn:cite:hmt:pers.pers341">Ἀλεξίων</persName> δὲ
+                                προκρίνει τὴν <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀριστάρχου</persName>· φησὶ γὰρ ἀπο τοῦ <rs type="waw">τ</rs>
+                                ἀρκτέον· καὶ ἡμεῖν δὲ δοκεῖ προς γὰρ τὴν <persName
+                                    n="urn:cite:hmt:pers.pers116">Ήραν</persName>. ἡ ἀπότασις ἐστιν.
+                                ἀυτὸς γοῦν ἐπεξηγεῖται ἀυτὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.262</ref>
+                                    <q>νῦν ἀν τοῦτό μ' ἄνῳγας ἀμήχανον ἄλλο τελέσσαι</q>
+                                </cit> τοιοῦτον γὰρ λέγει. ἤδη γάρ με καὶ ἄλλοτε ἡ σῆ ἐσωφρόνισεν
+                                ἐντολή. ὅδε ἐπιθέτης <persName n="urn:cite:hmt:pers.pers308"
+                                    >Πτολεμαῖος</persName> καὶ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
+                                        >Ζηνοδοτ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers15"
+                                            >Ζηνόδοτος</persName></expan>
+                                </choice> σὺν τῷ <rs type="waw">ϊ</rs> γράφουσιν οἷον τῇ σῇ ἐντολῇ
+                                ἐσωφρονισέν με ⁑</p>
                         </div>
                     </div>
                     <div ana="246" n="C27" type="scholion">
                         <div type="lemma">
-                            <p>
-                                <name>'Ωκεανοῦ</name>. ὅσπερ γένεσις πάντεσσι </p>
+                            <p><persName n="urn:cite:hmt:pers.pers123">Ὠκεανοῦ</persName>. ὅσπερ
+                                γένεσις πάντεσσι τέτυκται:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.246</p>
                         </div>
                         <div type="comment">
-                            <p><name>'Ωκεανοῦ</name>. ὅσπερ γένεσις πάντεσσι τέτυκται: ἐπεὶ ἐξ
-                                υδάτων ἁι αυξήσεις ὑπάρχουσιν· πῶς <name>‘Ησιόδου</name> πάντων
-                                πρῶτον ἐιπόντος γεγενῆσθαι τὸ <name>Χάος</name>. <name>Ὃμηρος</name>
-                                φησὶν <name>'Ωκεανον</name>· ῥητέον οὖν ὅτι ἕκαστος μὲν ἒιρηκεν ὡς
-                                ἐβούλετο· <name>Ὃμηρος</name> δὲ φιλοσοφώτερον· τὸ γὰρ ὕδωρ πάντων ἡ
-                                ζωὴ καὶ προέχει τῶν τεσσάρων στοιχέιων ὅ λάον. ὅθεν καὶ
-                                    <name>Πίνδαρος</name> ἄριστον ἀυτό φησίν⁑</p>
+                            <p>ἐπεὶ ἐξ υδάτων αἱ αὐξήσεις ὑπάρχουσιν· πῶς <persName
+                                    n="urn:cite:hmt:pers.pers4">Ἡσιόδου</persName> πάντων πρῶτον
+                                εἰπόντος γεγενῆσθαι τὸ <persName>Χάος</persName>. <persName
+                                    n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> φησὶν <choice>
+                                    <sic><persName n="urn:cite:hmt:pers.pers123"
+                                        >Ὠκεανου</persName></sic>
+                                    <corr><persName n="urn:cite:hmt:pers.pers123"
+                                        >Ὠκεανὸν</persName></corr>
+                                </choice>· ῥητέον οὖν ὅτι ἕκαστος μὲν εἴρηκεν ὡς ἐβούλετο· <persName
+                                    n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> δὲ φιλοσοφώτερον·
+                                τὸ γὰρ ὕδωρ πάντων ἡ ζωὴ καὶ προέχει τῶν τεσσάρων στοιχείων ὅ
+                                    <w>λα᾿ον</w>, ὅθεν καὶ <persName n="urn:cite:hmt:pers.pers5"
+                                    >Πίνδαρος</persName> ἄριστον αὐτὸ φησίν ⁑</p>
                         </div>
                     </div>
                     <!-- 185v -->
                     <div ana="255a" n="H1" type="scholion">
                         <div type="lemma">
-                            <p> καί μιν ἔπειτα <persName>κόων</persName>: </p>
+                            <p>καί μιν ἔπειτα <persName>κόων</persName>: </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.255</p>
                         </div>
                         <div type="comment">
                             <p>ἔνιοι δια τῶν δύο οο γράφουσι κόον. καὶ καλλίστρατος ἐν τοῖς
-                                διορθωτικοῖς ⁑ </p>
+                                διορθωτικοῖς ⁑</p>
                         </div>
                     </div>
                     <div ana="255b" n="H2" type="scholion">

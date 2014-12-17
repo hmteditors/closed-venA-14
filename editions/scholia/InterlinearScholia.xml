@@ -248,21 +248,10 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.235 </p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.235@ἰ̈δέω</p>
                         </div>
                         <div type="comment">
-                            <p> ὁμολογῶ </p>
-                        </div>
-                    </div>
-                    <div ana="6.400c" n="C7" type="scholion">
-                        <div type="lemma">
-                            <p> </p>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.240</p>
-                        </div>
-                        <div type="comment">
-                            <p> ἐμβαλεῖ </p>
+                            <p>ὁμολογῶ</p>
                         </div>
                     </div>
                     <!-- 185v -->
@@ -274,7 +263,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.255 </p>
                         </div>
                         <div type="comment">
-                            <p> τῶι <persName>ἡρακλεὶ</persName>
+                            <p> τῷ <persName>ἡρακλεὶ</persName>
                             </p>
                         </div>
                     </div>

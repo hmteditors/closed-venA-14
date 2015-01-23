@@ -1631,7 +1631,7 @@
                                     <abbr>πολ</abbr>
                                     <expan>πολεις</expan>
                                 </choice>
-                                <placeName>Πιερίαι</placeName> καὶ <placeName>Αμαθίαι</placeName> ἐν
+                                <placeName>Πιερίαι</placeName> καὶ <placeName n="urn:cite:hmt:pers.pers898">Αμαθίαι</placeName> ἐν
                                     <placeName n="urn:cite:hmt:place.place33">Μακεδονία</placeName>.
                                 ἡ ϊστορία παρὰ <persName n="urn:cite:hmt:pers.pers892"
                                     >Μαρσύια</persName>. νῦν δὲ <placeName
@@ -1663,10 +1663,10 @@
                                     <abbr>τουτ</abbr>
                                     <expan>τουτον</expan>
                                 </choice>
-                                <persName>Ξέρξης</persName> ἀγανακτήσας ὁ <rs type="ethnic"
+                                <persName n="urn:cite:hmt:pers.pers895">Ξέρξης</persName> ἀγανακτήσας ὁ <rs type="ethnic"
                                     n="urn:cite:hmt:place.place111">Περσῶν</rs> βασιλεὺς ὅτι προς
                                 αυτὸ νῆες αὐτοῦ διεφθάρησαν· διακόψας θάλασσαν ἐποίησεν, ἡ ἱστορία
-                                παρα <persName n="urn:cite:pers.pers">Ἡροδότω</persName> ⁑ </p>
+                                παρα <persName n="urn:cite:pers.pers896">Ἡροδότω</persName> ⁑ </p>
                         </div>
                     </div>
                     <div ana="230" n="C20" type="scholion">
@@ -1681,8 +1681,8 @@
                                     >Λήμνῳ</placeName> μάλιστα ὁ ὑπνος διατρίβει· ῥητέον οῦν. ὅτι
                                     <placeName n="urn:cite:hmt:place.place69">Λήμνου</placeName> μὲν
                                 ἢν δεσπότης <persName n="urn:cite:hmt:pers.pers192"
-                                    >Ἥφαιστος</persName>· γυνὴ δὲ τουτου <persName>Χάρις</persName>.
-                                πασιθέας δὲ τῆς <persName>Χάριτος</persName> ἀδελφῆς ἐρωτικῶς ἔχων ὁ
+                                    >Ἥφαιστος</persName>· γυνὴ δὲ τουτου <persName n="urn:cite:hmt:pers.pers897">Χάρις</persName>.
+                                πασιθέας δὲ τῆς <persName n="urn:cite:hmt:pers.pers897">Χάριτος</persName> ἀδελφῆς ἐρωτικῶς ἔχων ὁ
                                     <persName>Ὕπνος</persName> ἐκεῖ δίετριβεν· ταύτην οὖν ἀυτῷ
                                 ἐπαγγέλλεται γυναῖκα δώσειν ἥρα δύναται δὲ καὶ φυσικώτερον λυθῆναι·
                                 ὅτι <persName>οἰνοφόρος</persName> ἡ <placeName
@@ -1840,7 +1840,7 @@
                         <div type="comment">
                             <p>ἐπεὶ ἐξ υδάτων αἱ αὐξήσεις ὑπάρχουσιν· πῶς <persName
                                     n="urn:cite:hmt:pers.pers4">Ἡσιόδου</persName> πάντων πρῶτον
-                                εἰπόντος γεγενῆσθαι τὸ <persName>Χάος</persName>. <persName
+                                εἰπόντος γεγενῆσθαι τὸ <persName n="urn:cite:hmt:pers.pers898">Χάος</persName>. <persName
                                     n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> φησὶν <choice>
                                     <sic><persName n="urn:cite:hmt:pers.pers123"
                                         >Ὠκεανου</persName></sic>

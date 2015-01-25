@@ -281,24 +281,24 @@
                     <!-- 186r -->
                     <div ana="283-4a1 " n="H3" type="scholion">
                         <div type="lemma">
-                            <p> πολυπίδακα μητέρα</p>
+                            <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.283</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.283@λιπέτην</p>
                         </div>
                         <div type="comment">
-                            <p> κατέλιπον. </p>
+                            <p>κατέλιπον</p>
                         </div>
                     </div>
                     <div ana="284-285" n="H4" type="scholion">
                         <div type="lemma">
-                            <p> δὲ ποδῶν </p>
+                            <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.285</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.285@ἔμεινε</p>
                         </div>
                         <div type="comment">
-                            <p> ϊμνε</p>
+                            <p>ϊμνε</p>
                         </div>
                     </div>
                     <!-- 186v -->

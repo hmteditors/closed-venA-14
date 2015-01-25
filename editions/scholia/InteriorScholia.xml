@@ -534,37 +534,49 @@
                     <!-- 186r -->
                     <div ana="295a" n="H2" type="scholion">
                         <div type="lemma">
-                            <p>οἷον </p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.295</p>
                         </div>
                         <div type="comment">
-                            <p> γράφεται καὶ οἷος</p>
+                            <p>γράφεται καὶ οῖος</p>
                         </div>
                     </div>
                     <div ana="299c" n="H3" type="scholion">
                         <div type="lemma">
-                            <p>τῶν κ' ἐπιβαίης</p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.299</p>
                         </div>
                         <div type="comment">
-                            <p>
-                                <persName>Ζηνόδοτος</persName> καὶ <persName>Ἀριστοφάνης</persName>
-                                ἔξω τοῦ κέ συνδέσμου τῶν ἐπιβαίης</p>
+                            <p><choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
+                                        >Ζηνόδ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers15"
+                                            >Ζηνόδοτος</persName></expan>
+                                </choice> καὶ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
+                                        >Ἀριστοφ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers21"
+                                            >Ἀριστοφάνης</persName></expan>
+                                </choice> ἔξω τοῦ <q>κέ</q>
+                                <choice>
+                                    <abbr>συνδ</abbr>
+                                    <expan>συνδέσμου</expan>
+                                </choice> τῶν ἐπιβαίης:</p>
                         </div>
                     </div>
                     <div ana="303" n="H4" type="scholion">
                         <div type="lemma">
-                            <p>οἵ με σφοῖσι </p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.303</p>
                         </div>
                         <div type="comment">
-                            <p> γράφεται οἵ μ' ἐν σφοῖσι </p>
+                            <p>γράφεται <q>οἵ μ' ἐν σφοῖσι</q>,</p>
                         </div>
                     </div>
                     <!-- 186v lost -->

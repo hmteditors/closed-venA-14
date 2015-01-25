@@ -472,9 +472,21 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.285</p>
                         </div>
                         <div type="comment">
-                            <p>Αρίσταρχος, ὑπο εῖτα σείετο ι¨ακῶς οὕτως καὶ
-                                    <persName>Ζηνόδοτος</persName> καὶ
-                                    <persName>Ἀρίστοφανης</persName>:</p>
+                            <p><choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
+                                        >Αρισταρχ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers16"
+                                            >Ἀρίσταρχος</persName></expan>
+                                </choice> ὑπο εῖτα σείετο ϊακῶς <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> καὶ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
+                                        >Ζηνοδοτ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers15"
+                                            >Ζηνόδοτος</persName></expan>
+                                </choice> καὶ <persName n="urn:cite:hmt:pers.pers21"
+                                    >Ἀρίστοφανης</persName>:</p>
                         </div>
                     </div>
                     <div n="H4" type="scholion">
@@ -490,7 +502,7 @@
                                 <persName><choice>
                                         <abbr>Ἀρίσταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
-                                    </choice></persName> ἄλλοι δε' πρώτιστον:</p>
+                                    </choice></persName> ἄλλοι δὲ πρώτιστον:</p>
                         </div>
                     </div>
                     <!-- 186v lost -->

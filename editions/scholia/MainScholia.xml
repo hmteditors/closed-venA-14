@@ -2021,7 +2021,7 @@
                             <p> οὕτως λεκτὸν ὀξυτόνως ὡς φυτὸν οὗτος γὰρ ὁ τόπος καλεῖται. ἡ διπλῆ
                                 δὲ ὅτι ἰδίως εἴρηκεν ἀντι τοῦ <placeName
                                     n="urn:cite:hmt:place.place89">Ἴδης</placeName> εἰς
-                                    <placeName>Λεκτὸν</placeName> καὶ <cit>
+                                    <placeName n="urn:cite:hmt:place.place284">Λεκτὸν</placeName> καὶ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.47-8.48</ref>
                                     <q><placeName n="urn:cite:hmt:place.place89">Ἵδην</placeName> δ'
                                         ί̈κανε πολυπίδακα <placeName n="urn:cite:hmt:place.place276"
@@ -2034,7 +2034,7 @@
                                     <q>ἡ δ' ἄρα <placeName n="urn:cite:hmt:place.place98"
                                             >Κύπρον</placeName> ἵ̈κανε φιλομμειδὴς <persName
                                             n="urn:cite:hmt:pers.pers194">Ἀφροδίτη</persName> ἐς
-                                            <placeName>Πάφον</placeName></q>
+                                            <placeName n="urn:cite:hmt:place.place429">Πάφον</placeName></q>
                                 </cit>, ἡ γὰρ <placeName n="urn:cite:hmt:place.place98"
                                     >Κύπρος</placeName> εἰς <placeName>Πάφον</placeName> ⁑</p>
                         </div>
@@ -2116,13 +2116,13 @@
                         <div type="comment">
                             <p>
                                 <persName n="urn:cite:hmt:pers.pers116">Ἥραν</persName> τρεφομένην
-                                παρὰ τοῖς γονεῦσιν εἷς τῶν Γιγάντων <persName>Εὑρυμέδων</persName>
+                                παρὰ τοῖς γονεῦσιν εἷς τῶν Γιγάντων <persName n="urn:cite:hmt:pers.pers902">Εὑρυμέδων</persName>
                                 βιασάμενος ἔγκυον ἐποίησεν· ἡ δε <persName
                                     n="urn:cite:hmt:pers.pers99">Προμηθέα</persName>, ἐγέννησεν
                                     <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δὲ ὕστερον
                                 γήμας τὴν ἀδελφὴν καὶ γνοὺς τὰ γενόμενα τὸν μὲν <choice>
-                                    <abbr><persName>Εὐρυμέδοντ</persName></abbr>
-                                    <expan><persName>Εὐρυμέδοντα</persName></expan>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers902">Εὐρυμέδοντ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers902">Εὐρυμέδοντα</persName></expan>
                                 </choice> κατεταρτάρωσεν· τὸν δὲ <persName
                                     n="urn:cite:hmt:pers.pers99">Προμηθέα</persName> προφάσει τοῦ
                                 πυρὸς δεσμοῖς ἀνῄρτησεν. ἡ ἱστορίᾳ παρα <persName

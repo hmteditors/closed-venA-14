@@ -1859,25 +1859,27 @@
                     <!-- 185v -->
                     <div ana="255a" n="H1" type="scholion">
                         <div type="lemma">
-                            <p>καί μιν ἔπειτα <persName>κόων</persName>: </p>
+                            <p>καί μιν ἔπειτα <placeName>Κόων</placeName>:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.255</p>
                         </div>
                         <div type="comment">
-                            <p>ἔνιοι δια τῶν δύο οο γράφουσι κόον. καὶ καλλίστρατος ἐν τοῖς
-                                διορθωτικοῖς ⁑</p>
+                            <p>ἔνιοι δια τῶν δύο <rs type="waw">οο</rs> γράφουσι
+                                        <q><placeName>Κόον</placeName></q>, καὶ καλλίστρατος ἐν τοῖς
+                                διορθωτικοῖς :</p>
                         </div>
                     </div>
                     <div ana="255b" n="H2" type="scholion">
                         <div type="lemma">
-                            <p> κόωνδ</p>
+                            <p><placeName>Κόων</placeName>·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.255</p>
                         </div>
                         <div type="comment">
-                            <p> τὴν κῶν νῆσιν. γράφεται δὲ σὺν τῶι ν κατ' ἀιτιατικην.⁑ </p>
+                            <p> εἰς τὴν <placeName>Κῶν</placeName> νῆσον· γράφεται δὲ σὺν τῶι <rs
+                                    type="waw">ν</rs> κατ' ἀιτιατικην·⁑ </p>
                         </div>
                     </div>
                     <div ana="6.3a" n="H3" type="scholion">
@@ -1889,80 +1891,107 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <persName>ἡρακλης</persName> ἀνακομιζόμενος μετὰ τὸ πορθῆσαι τροίαν
-                                γενόμενος τε κατὰ τὸ <placeName>ἄιγειον</placeName> πέλαγος βουλήσει
-                                    <persName>ἥρας</persName> σφοδῶι συνεσχέθη χειμᾶνι. κατασυρεὶς
-                                δὲ εις <placeName>κῶ</placeName> τὴν <persName>μερόπιδα</persName>,
-                                ἐκωλύθη ἐπιβῆναι τῆς νήσου ὑπο <placeName>εὐρυπύλου</placeName> τοῦ
-                                    <persName>ποσειδῶνοσ</persName> βασιλεύοντος αὐτῆς . βιασάμενος
-                                δὲ ὡς ληιτὴς ἐπιβὰς ἀνεῖλε τὸν <persName>εὐρύπυλον</persName> καὶ
-                                τοὺς παιδας αὐτοῦ. μιγεὶς δὲ τῆι θυγατρὶ
-                                    αὐτοῦ<placeName>χαλκίοπηι</placeName>
-                                <placeName>θεσσαλὸν</placeName> ἐγέννησεν ἡ ϊστορία παρὰ
-                                    <placeName>φερεκύδει</placeName>.⁑</p>
+                                <persName n="urn:cite:hmt:pers.pers71">Ἡρακλης</persName>
+                                ἀνακομιζόμενος μετὰ τὸ πορθῆσαι <placeName
+                                    n="urn:cite:hmt:place.place6">Τροίαν</placeName> γενόμενος τε <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὸ <placeName n="urn:cite:hmt:place.place103"
+                                    >Αἴγειον</placeName> πέλαγος βουλήσει <persName
+                                    n="urn:cite:hmt:pers.pers116">Ἥρας</persName> σφοδρῷ συνεσχέθη
+                                χειμῶνι. κατασυρεὶς δὲ εις <placeName>Κῶ</placeName> τὴν <persName
+                                    n="urn:cite:hmt:pers.pers144">Μερόπιδα</persName>, ἐκωλύθη
+                                ἐπιβῆναι τῆς νήσου ὑπο <persName n="urn:cite:hmt:pers.pers741"
+                                    >Εὐρυπύλου</persName> τοῦ <persName n="urn:cite:hmt:pers.pers47"
+                                    >Ποσειδῶνοσ</persName> βασιλεύοντος αὐτῆς . βιασάμενος δὲ ὡς
+                                ληστὴς ἐπιβὰς ἀνεῖλε τὸν <persName n="urn:cite:hmt:pers.pers741"
+                                    >Εὐρύπυλον</persName> καὶ τοὺς παιδας αὐτοῦ· μιγεὶς δὲ τῇ
+                                θυγατρὶ αὐτοῦ <persName n="urn:cite:hmt:pers.pers430"
+                                    >Χαλκίοπη</persName>
+                                <persName n="urn:cite:hmt:pers.pers431">Θεσσαλὸν</persName>
+                                ἐγέννησεν ἡ ϊστορία παρὰ <persName n="urn:cite:hmt:pers.pers255"
+                                    >Φερεκύδει</persName>⁑</p>
                         </div>
                     </div>
                     <div ana="257a" n="H4" type="scholion">
                         <div type="lemma">
-                            <p> ῥιπτάζων δῶμα θεοὺς </p>
+                            <p> ῥιπτάζων <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> δῶμα θεοὺς </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.257</p>
                         </div>
                         <div type="comment">
-                            <p> ἀντιστροφή ἐστιν ἀντὶ τοῦ χαλεπαίνων ἐρρίπταζε · συναπτέον οὖν καὶ
-                                μή τις ἀφ ἑτέρας ἀρχῆς ἀναγινώσκοι ριπτάζων.⁑ </p>
+                            <p> ἀντιστροφη ἐστιν ἀντι τοῦ <q>χαλεπαίνων</q> ἐρρίπταζεν · συναπτέον
+                                οὖν καὶ μή τις ἀφ ετέρας ἀρχῆς ἀναγινώσκοιτο ριπτάζων⁑ </p>
                         </div>
                     </div>
                     <div ana="258" n="H5" type="scholion">
                         <div type="lemma">
-                            <p> καὶ κὲ μ' ἄϊστον" ἀπ' αι θέροι ἐββαλεπόν τωι </p>
+                            <p> καὶ κέ μ' ἄϊστον ἀπ' αιθέρος ἐμβαλεπόν τῳ: </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.258</p>
                         </div>
                         <div type="comment">
-                            <p> καὶ ἂν ιδών με ἀνιστόρητον καὶ ἀφανῆ εποίηεν · βαλὼν ἀπὸ τοῦ οὐρανοῦ
-                                εἰς τὴν θάλασσαν.⁑</p>
+                            <p> καὶ ἀν <choice>
+                                    <sic>ιδῶν</sic>
+                                    <corr>ιδών</corr>
+                                </choice> με ἀνιστόρητον καὶ ἀφανῆ εποίηεν · λαβὼν ἀπο τοῦ <choice>
+                                    <abbr>ουνου</abbr>
+                                    <expan>οὐρανοῦ</expan>
+                                </choice> εἰς τὴν θάλασσαν ⁑</p>
                         </div>
                     </div>
                     <div ana="265a" n="H6" type="scholion">
                         <div type="lemma">
-                            <p> </p>
+                            <p>ῆφὴς</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.265</p>
                         </div>
                         <div type="comment">
-                            <p> ῆφὴι ὁ <persName>ασκαλωνίτης</persName> βαρύνει τὸν η ἄμεινον δὲ
-                                περισπᾶν καὶ γὰρ εἰ διαποερῖ οὐκ ἀναγκαῖον ἐγκλίνειν αὐτόν οὐ γὰρ
-                                ἕτερος αὐτοῶι ἐπριφέρεται περισπώμενος ὡς ἐπὶ τοῦ η δολιχὴ νοῦσος ἦ
-                                    <persName>ἄρτεμις</persName> ἰοχέαιρα.⁑</p>
+                            <p> ὁ <persName n="urn:cite:hmt:pers.pers485"
+                                    ><abbr>Ἀσκαλωνίτ</abbr></persName><persName
+                                    n="urn:cite:hmt:pers.pers485"
+                                    ><expan>Ἀσκαλωνίτης</expan></persName> βαρύνει τὸν <rs n="waw"
+                                    >η</rs> ἄμεινον δὲ περισπᾶν καὶ γὰρ εἰ διαπορεῖ οὐκ ἀναγκαῖον
+                                ἐγκλίνειν αὐτὸν οὐ γὰρ ἕτερος αὐτοῷ ἐπριφέρεται περισπώμενος ὡς ἐπι
+                                τοῦ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.172</ref>
+                                    <q><rs n="waw">η</rs> δολιχὴ νῆσος ἡ <persName
+                                            n="urn:cite:hmt:pers.pers39">Ἀρτεμις</persName>
+                                        ἰοχέαιρα</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div ana="265a" n="H7" type="scholion">
                         <div type="lemma">
-                            <p> ἀλλ' ϊθ' ἐτώ δέκε τοι </p>
+                            <p> ἀλλ' ϊθ' ἐγὼ δέκε τοι: </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.265</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.267</p>
                         </div>
                         <div type="comment">
-                            <p> ότι δύο γενέσεισ <persName>χαρίτων</persName> ὑποτίθεται πρεσβυτέρας
-                                κὰι νεωτέρας διὸ συγκριτικῶς λέγει ὁπλοτεράων.⁑ </p>
+                            <p> ὅτι δύο γενέσεις Χαρίτων ὑποτίθεται πρεσβυτέρας κὰι νεωτέρας διὸ
+                                συγκριτικῶς λέγει ὁπλοτεράων⁑ </p>
                         </div>
                     </div>
                     <div ana="272" n="H8" type="scholion">
                         <div type="lemma">
-                            <p> χειρὶ δὲ τῆι ἑτέπηι</p>
+                            <p> χειρὶ δὲ τῇ ἑτέρῃ</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.272</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι ἑπί δύο τῶι ἑτέρωι χρῆται κατὰ δια στολὴν
-                                    <persName>ἑλληνικῶς</persName> · τὰ βαπύτατα δὲ τῶν στοιχείων
-                                ὄμνυσι καθαπερ ἐν τῆι συνηθείαι λέγομεν ξηρὸν καὶ ὑγρόν.⁑ </p>
+                            <p> ὅτι ἑπι δύο τῷ ἑτέρῳ χρῆται κατα δια <choice>
+                                    <abbr>στ</abbr>
+                                    <expan>στολὴν</expan>
+                                </choice> ἑλληνικῶς· τὰ βαρύτατα δὲ τῶν στοιχείων ὅμνυσι καθαπερ ἐν
+                                τῇ συνηθείᾳ λέγομεν ξηρὸν καὶ ὑγρόν⁑ </p>
                         </div>
                     </div>
                     <div ana="274a" n="H9" type="scholion">
@@ -1973,25 +2002,30 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.274 </p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι <persName>ζηνόδοτος</persName> μάρτυρες γράφει ἀγνοῶν ὅτι
-                                μάρτυροι λέγειν δεῖ ἀκολούθως τῶι μάρτυρος⁑</p>
+                            <p> ὅτι <persName>Ζηνόδοτος</persName>
+                                <q>μάρτυρες</q> γράφει ἀγνοῶν ὅτι <q>μάρτυρος</q> λέγειν δεῖ
+                                ἀκολούθως τῷ <q>μάρτυρι</q>⁑</p>
                         </div>
                     </div>
                     <div ana="274b" n="H10" type="scholion">
                         <div type="lemma">
-                            <p> θεοὶ κρόνον ἀμφὶς ἑόντες </p>
+                            <p> θεοὶ <persName n="urn:cite:hmt:pers.pers139">Κρόνον</persName> ἀμφὶς
+                                εόντες : </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.274</p>
                         </div>
                         <div type="comment">
-                            <p> οἱ περὶ τὸν <persName>κρόνον</persName> θεοὶ. λέγει δὲ τοὺς
-                                    <persName>τιτᾶνας</persName> οὗτοι δέ εἰσιν οἱ <choice>
-                                    <abbr>ouwou</abbr>
+                            <p> οἱ περι τὸν <persName n="urn:cite:hmt:pers.pers139"
+                                    >Κρόνον</persName> θεοὶ. λέγει δὲ τοὺς Τιτᾶνας οὖτοι δε εἰσιν οἱ <choice>
+                                    <abbr>ουνου</abbr>
                                     <expan>οὐρανοῦ</expan>
-                                </choice> παῖδες, <persName>κρόνος</persName>, **κρεῖος,
-                                    <persName>ὑπερίων</persName>, <persName>ἰαπετὸς</persName>,
-                                    <placeName>κοῖο</placeName>⁑</p>
+                                </choice> παῖδες, <persName n="urn:cite:hmt:pers.pers139"
+                                    >Κρόνος</persName>, <persName>Κρεῖος</persName>,
+                                <persName n="urn:cite:hmt:pers.pers146">Ὑπερίων</persName>, <choice>
+                                    <sic><persName n="urn:cite:hmt:pers.pers562">Ἰαπετός</persName></sic>
+                                    <corr><persName n="urn:cite:hmt:pers.pers562">Ἰαπετὸς</persName></corr>
+                                </choice> , <placeName n="urn:cite:hmt:pers.pers36">Κύων</placeName>⁑</p>
                         </div>
                     </div>
                     <!-- 186r -->
@@ -2020,8 +2054,8 @@
                         <div type="comment">
                             <p> οὕτως λεκτὸν ὀξυτόνως ὡς φυτὸν οὗτος γὰρ ὁ τόπος καλεῖται. ἡ διπλῆ
                                 δὲ ὅτι ἰδίως εἴρηκεν ἀντι τοῦ <placeName
-                                    n="urn:cite:hmt:place.place89">Ἴδης</placeName> εἰς
-                                    <placeName n="urn:cite:hmt:place.place284">Λεκτὸν</placeName> καὶ <cit>
+                                    n="urn:cite:hmt:place.place89">Ἴδης</placeName> εἰς <placeName
+                                    n="urn:cite:hmt:place.place284">Λεκτὸν</placeName> καὶ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.47-8.48</ref>
                                     <q><placeName n="urn:cite:hmt:place.place89">Ἵδην</placeName> δ'
                                         ί̈κανε πολυπίδακα <placeName n="urn:cite:hmt:place.place276"
@@ -2034,7 +2068,8 @@
                                     <q>ἡ δ' ἄρα <placeName n="urn:cite:hmt:place.place98"
                                             >Κύπρον</placeName> ἵ̈κανε φιλομμειδὴς <persName
                                             n="urn:cite:hmt:pers.pers194">Ἀφροδίτη</persName> ἐς
-                                            <placeName n="urn:cite:hmt:place.place429">Πάφον</placeName></q>
+                                            <placeName n="urn:cite:hmt:place.place429"
+                                            >Πάφον</placeName></q>
                                 </cit>, ἡ γὰρ <placeName n="urn:cite:hmt:place.place98"
                                     >Κύπρος</placeName> εἰς <placeName>Πάφον</placeName> ⁑</p>
                         </div>
@@ -2116,13 +2151,16 @@
                         <div type="comment">
                             <p>
                                 <persName n="urn:cite:hmt:pers.pers116">Ἥραν</persName> τρεφομένην
-                                παρὰ τοῖς γονεῦσιν εἷς τῶν Γιγάντων <persName n="urn:cite:hmt:pers.pers902">Εὑρυμέδων</persName>
-                                βιασάμενος ἔγκυον ἐποίησεν· ἡ δε <persName
-                                    n="urn:cite:hmt:pers.pers99">Προμηθέα</persName>, ἐγέννησεν
-                                    <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δὲ ὕστερον
-                                γήμας τὴν ἀδελφὴν καὶ γνοὺς τὰ γενόμενα τὸν μὲν <choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers902">Εὐρυμέδοντ</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers902">Εὐρυμέδοντα</persName></expan>
+                                παρὰ τοῖς γονεῦσιν εἷς τῶν Γιγάντων <persName
+                                    n="urn:cite:hmt:pers.pers902">Εὑρυμέδων</persName> βιασάμενος
+                                ἔγκυον ἐποίησεν· ἡ δε <persName n="urn:cite:hmt:pers.pers99"
+                                    >Προμηθέα</persName>, ἐγέννησεν <persName
+                                    n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δὲ ὕστερον γήμας τὴν
+                                ἀδελφὴν καὶ γνοὺς τὰ γενόμενα τὸν μὲν <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers902"
+                                            >Εὐρυμέδοντ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers902"
+                                            >Εὐρυμέδοντα</persName></expan>
                                 </choice> κατεταρτάρωσεν· τὸν δὲ <persName
                                     n="urn:cite:hmt:pers.pers99">Προμηθέα</persName> προφάσει τοῦ
                                 πυρὸς δεσμοῖς ἀνῄρτησεν. ἡ ἱστορίᾳ παρα <persName

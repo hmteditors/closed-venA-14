@@ -528,7 +528,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.271</p>
                         </div>
                         <div type="comment">
-                            <p> τὸ ἑξῆς ἐστὶν ὄμοσον ἦ μὲν ἐμοι τὰ δὲ αλλα δια μέσον </p>
+                            <p>το ἑξῆς ἐστίν όμοσον ἠ μὲν εμοὶ τά δε αλλα δια μέσον: </p>
                         </div>
                     </div>
                     <!-- 186r -->
@@ -605,12 +605,14 @@
                         <div type="comment">
                             <p><choice>
                                     <abbr>ουτ</abbr>
-                                    <expan>ουτως</expan>
+                                    <expan>οὕτως</expan>
                                 </choice>
                                 <choice>
-                                    <abbr>Ἀρίσαρχ</abbr>
-                                    <expan><persName>Ἀρίσταρχος</persName></expan>
-                                </choice> ἔεργε:⁑</p>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
+                                        >Ἀρίσταρχ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers16"
+                                            >Ἀρίσταρχος</persName></expan>
+                                </choice> <q>έεργε</q> ⁑</p>
                         </div>
                     </div>
                     <!-- 187v -->

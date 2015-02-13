@@ -621,7 +621,7 @@
                         </div>
                     </div>
                     <!-- 187v -->
-                    <div n="A3" type="scholion">
+                   <div n="A3" type="scholion">
                         <div type="lemma"/>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.354</p>
@@ -629,16 +629,16 @@
                         <div type="comment">
                             <p><choice>
                                     <abbr>οτ</abbr>
-                                    <expan>οτι</expan>
+                                    <expan>ὅτι</expan>
                                 </choice> συν <choice>
                                     <abbr>τ</abbr>
-                                    <expan>τω</expan>
+                                    <expan>τῷ</expan>
                                 </choice>
                                 <rs type="waw">ν</rs>
-                                <choice>
-                                    <abbr>νη</abbr>
-                                    <expan>νηδυμος</expan>
-                                </choice>
+                                <q><choice>
+                                        <abbr>νη</abbr>
+                                        <expan>νήδυμος</expan>
+                                    </choice></q>
                             </p>
                         </div>
                     </div>
@@ -648,7 +648,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.359</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν αλλω κωμ' ἐκαλυψ:</p>
+                            <p>ἐν αλλῷ <q>κωμ' ἐκαλυψα</q>:</p>
                         </div>
                     </div>
                     <div n="A5" type="scholion">
@@ -659,8 +659,8 @@
                         <div type="comment">
                             <p>ὑποστικτεον <choice>
                                     <abbr>κατ</abbr>
-                                    <expan>κατα</expan>
-                                </choice> τὸ τέλος τοῦ στίχου λείπει γὰρ τὸ εισί⁑</p>
+                                    <expan>κατὰ</expan>
+                                </choice> τὸ τέλος τοῦ στίχου λείπει γαρ τὸ εισί ⁑ </p>
                         </div>
                     </div>
                     <div n="A6" type="scholion">
@@ -670,12 +670,14 @@
                         </div>
                         <div type="comment">
                             <p><choice>
-                                    <abbr>Αρισταρx</abbr>
-                                    <expan><persName>Αρισταρχος</persName></expan>
-                                </choice> διὰ τῆς <rs type="waw">ει</rs> διφθόγγου <rs type="waw"
-                                    >ἔχει</rs> ⁑ </p>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
+                                        >Αρισταρx</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers16"
+                                            >Ἀρίσταρχος</persName></expan>
+                                </choice> δια τῆς <rs type="waw">ει</rs> διφθόγγου ἔχει ⁑ </p>
                         </div>
                     </div>
+
 
                     <!-- 188r -->
                     <div n="D1" type="scholion">

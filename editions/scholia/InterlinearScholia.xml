@@ -370,6 +370,18 @@
                             <p/>
                         </div>
                     </div>
+                    <div n="Z2" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.383@ρ'</p>
+                        </div>
+                        <div type="comment">
+                            <p>α</p>
+                        </div>
+                    </div>
+                    
                     <!-- 188v lost -->
 
                     <div n="D4" type="scholion">

@@ -484,7 +484,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.501 </p>
                         </div>
                         <div type="comment">
-                            <p> ἀντὶ τοῦ εἴπατε:</p>
+                            <p> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ εἴπατε:</p>
                         </div>
                     </div>
                     <!-- 190v -->

@@ -450,7 +450,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.476 </p>
                         </div>
                         <div type="comment">
-                            <p> ονομα κύριον ὑιὸς Ἀλεγήνορος</p>
+                            <p> ονομα κύριον ὑιὸς <persName n="urn:cite:hmt:pers.pers922">Ἀλεγήνορος</persName></p>
                         </div>
                     </div>
                     <!-- 190r -->

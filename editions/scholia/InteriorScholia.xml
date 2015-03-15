@@ -709,10 +709,18 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.402</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἡ πρόθεσις παρεῖται καὶ πτῶσις ἤλλακται, <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice>
+                                <q>ἐπ <persName n="urn:cite:hmt:pers.pers127">Αἴαντα</persName></q>
+                                ⁑</p>
                         </div>
                     </div>
                     <!-- 188v lost -->

@@ -160,7 +160,7 @@
                     </div>
                     <!-- 187v -->
 
-                     <div ana="357-8" n="A2" type="scholion">
+                    <div ana="357-8" n="A2" type="scholion">
                         <div type="lemma">
                             <p> </p>
                         </div>
@@ -191,10 +191,10 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.384</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers47">Ποσειδ</persName></p>
                         </div>
                     </div>
 
@@ -203,10 +203,10 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.386</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><del>ί̈κελον</del></p>
                         </div>
                     </div>
                     <div n="D3" type="scholion">
@@ -214,10 +214,10 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.390</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers47">Ποσειδα</persName></p>
                         </div>
                     </div>
                     <div n="D4" type="scholion">
@@ -225,10 +225,10 @@
                             <p> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:14.398</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><del>ποτι δρυσὶν</del></p>
                         </div>
                     </div>
                     <div n="D5" type="scholion">

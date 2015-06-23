@@ -501,13 +501,13 @@
                             <p>15.505 </p>
                         </div>
                         <div type="comment">
-                            <p><choice>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
                                     <abbr>Ζηνοδ</abbr>
-                                    <expan><persName>Ζηνοδοτος</persName></expan>
-                                </choice> καὶ <choice>
+                                    <expan>Ζηνοδοτος</expan>
+                                </choice></persName> καὶ <persName n="urn:cite:hmt:pers.pers21"><choice>
                                     <abbr>Ἀριστοφ</abbr>
-                                    <expan><persName>Ἀριστοφάνης</persName></expan>
-                                </choice>
+                                    <expan>Ἀριστοφάνης</expan>
+                                </choice></persName>
                                 <q>ἐν νυσί</q></p>
                         </div>
                     </div>

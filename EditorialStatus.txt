@@ -1,21 +1,8 @@
 Status of Iliad 14
 
-Main Text Index
-- needs to be created
-
-Main Text Edition
-- initial edit complete, should be checked for any changes in editorial standards (floating diaereses etc.), requires named entity tagging, and also check for common mistakes in beginning Sophokeys users (difficulty with capitalizations, breathings, iota subscripts, etc)
-
 Scholia Index
 - complete except for intermarginal scholia on 185r (placeholders C9, C10, C11, C12, C13)
 
-Scholia Edition
-- complete except for: 
-	- Main Scholia: H18 on 186r, 186v, 188r, 188v, 189r
-	- Intermarginal Scholia: 186v, 188v, 189r
-	- Interior Scholia: 185r, 186v, 188r, 188v, 189r
-	- Exterior Scholia: 186v, 188r, 189r
-	- Interlinear Scholia: 188r, 188v, 189r
 
 Other Issues
 - verify that every scholion has a urn reference to the line it comments on (particularly exterior scholia seem to be missing them)

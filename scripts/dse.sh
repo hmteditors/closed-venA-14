@@ -1,23 +1,18 @@
 
-if [ $# -eq 2 ]; then
-    CONF=/vagrant/venA-14/${2}/configs/vm-mom-config.gradle
-elif [ $# -eq 1 ]; then
-    CONF=/vagrant/venA-14/configs/vm-mom-config.gradle
-else 
+if [ "$#" -ne 1 ]; then
     echo "Usage: sh dse.sh URN"
     exit
 fi
 
 
-echo Verifying from configuration in ${CONF}
+echo "Verifying from configuration in /vagrant/venA-15//configs/vm-mom-config.gradle dse"
+
 
 cd /vagrant/hmt-mom
 
-echo Using MOM clone in `pwd`
 echo "Cleaning previous HMT MOM results..."
 gradle clean
 
-echo Beginning verification for folio $1 using CONF in $CONF
+echo Beginning verification for folio $1
 
-gradle -Pfolio=$1 -Pconf=${CONF} dse
-
+gradle -Pfolio=$1 -Pconf=/vagrant/venA-15//configs/vm-mom-config.gradle dse
